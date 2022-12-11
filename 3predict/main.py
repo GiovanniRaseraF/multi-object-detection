@@ -16,6 +16,7 @@ samples         = 9000
 active_train    = False
 num_of_epochs   = 2001
 train_image_dir = '/assignment_1/train/images'
+train_ann_dir = '/assignment_1/train/annotations'
 val_image_dir   = '/assignment_1/test/images'
 load_model      = not active_train 
 number_model    = 2001
@@ -64,17 +65,19 @@ if __name__ == "__main__":
         "scale"           : int(sys.argv[1]),
         "samples"         : int(sys.argv[2]),
         "samples2"        : int(sys.argv[3]),
-        "active_train"    : bool(int(sys.argv[4])),
-        "num_of_epochs"   : int(sys.argv[5]),
-        "load_model"      : bool(int(sys.argv[6])),
-        "number_model"    : int(sys.argv[7]),
-        "lr"              : float(sys.argv[8]),
-        "fromdir"         : sys.argv[9].strip(),
-        "savedir"         : sys.argv[10].strip(),
+        "samples3"        : int(sys.argv[4]),
+        "active_train"    : bool(int(sys.argv[5])),
+        "num_of_epochs"   : int(sys.argv[6]),
+        "load_model"      : bool(int(sys.argv[7])),
+        "number_model"    : int(sys.argv[8]),
+        "lr"              : float(sys.argv[9]),
+        "fromdir"         : sys.argv[10].strip(),
+        "savedir"         : sys.argv[11].strip(),
     }
     scale           = infodict["scale"] 
     samples         = infodict["samples"]
-    samples2         = infodict["samples2"]
+    samples2        = infodict["samples2"]
+    samples3        = infodict["samples3"]
     active_train    = infodict["active_train"]
     num_of_epochs   = infodict["num_of_epochs"]
     load_model      = infodict["load_model"] 
@@ -89,7 +92,7 @@ if __name__ == "__main__":
     # Loading training dataset
     train_images, train_labels, train_boxes = dataset(
         image_dir   = fromdir + train_image_dir,
-        ann_dir     = fromdir + "/assignment_1/train/annotations/",
+        ann_dir     = fromdir + train_ann_dir +'/',
         samples     = samples,
         scale       = scale,
         active_train= active_train,
@@ -97,19 +100,29 @@ if __name__ == "__main__":
     ) 
 
     train_images2, train_labels2, train_boxes2 = dataset(
-        image_dir   = fromdir + '/assignment_1/train/images2',
-        ann_dir     = fromdir + "/assignment_1/train/annotations2/",
+        image_dir   = fromdir + train_image_dir + '2',
+        ann_dir     = fromdir + train_ann_dir + '2/',
         samples     = samples2,
         scale       = scale,
         active_train= active_train,
         changes     = changes
     )
 
+    train_images3, train_labels3, train_boxes3 = dataset(
+        image_dir   = fromdir + train_image_dir + '3',
+        ann_dir     = fromdir + train_ann_dir + '3/',
+        samples     = samples3,
+        scale       = scale,
+        active_train= active_train,
+        changes     = changes
+    )
+
+
     # Loading test dataset
     val_images, val_labels, val_boxes = dataset(
         image_dir   = fromdir + val_image_dir,
         ann_dir     = fromdir + "/assignment_1/test/annotations/",
-        samples     = 1864,
+        samples     = 1941,
         scale       = scale,
         active_train= active_train,
         changes     = changes
@@ -121,6 +134,7 @@ if __name__ == "__main__":
     if active_train:
         datas = Dataset(train_images, train_labels, train_boxes)
         datas2 = Dataset(train_images2, train_labels2, train_boxes2)
+        datas3 = Dataset(train_images3, train_labels3, train_boxes3)
         valdataset = ValDataset(val_images, val_labels, val_boxes)
 
         train(
@@ -128,6 +142,7 @@ if __name__ == "__main__":
             lr              = lr,
             dataset         = datas,
             dataset2        = datas2,
+            dataset3        = datas3,
             valdataset      = valdataset,
             samples         = samples,
             savedir         = savedir
