@@ -59,6 +59,9 @@ def printdict(dictionary):
     for key in (dictionary.items()):
         print(f"{key}")
 
+test_samples = 0
+accuracy = 0
+
 if __name__ == "__main__":
     print("usage: main.py scale samples samples2 active_train num_of_epochs load_model number_model lr from")
     infodict = {
@@ -122,7 +125,7 @@ if __name__ == "__main__":
     val_images, val_labels, val_boxes = dataset(
         image_dir   = fromdir + val_image_dir,
         ann_dir     = fromdir + "/assignment_1/test/annotations/",
-        samples     = 1941,
+        samples     = 4,
         scale       = scale,
         active_train= active_train,
         changes     = changes
@@ -147,22 +150,24 @@ if __name__ == "__main__":
             samples         = samples,
             savedir         = savedir
         )
-
-    # Predict
+    
+    # Predict    
     while(True):
         imagename = input("Image:> ")
         if imagename == "end":
             exit(0)
-
         predict(
-            image       = fromdir + val_image_dir + "/" + imagename + ".jpg", 
-            number_model= number_model,
-            scale       = scale,
+            image          = fromdir + val_image_dir + "/" + imagename + ".jpg", 
+            number_model   = number_model,
+            scale          = scale,
             showfinalimage = False,
-            saveimage      = True,
+            saveimage      = False,
             classes        = classes,
-            savedir        = savedir
+            savedir        = savedir,
+            recall         = False
         )
+
+   #L'accuracy è 0.3124048706240487 su 1095 foto
 
    #preso il return del predict, su 3000 foto vediamo quante hanno predetto giusto e aggiustiamo
    #la soglia di confidenza, poi in seguito calcoliamo recall e tutto il resto con il quale

@@ -1,0 +1,12 @@
+*.zip
+assignment_1/*
+assignment_1
+models/*
+.vscode/*
+.vscode
+*.pth
+*.pyc
+*.jpg
+*/settings.json
+Immagini/
+Immagini/*

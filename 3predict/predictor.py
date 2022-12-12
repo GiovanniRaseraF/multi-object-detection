@@ -60,13 +60,14 @@ def postprocess(image, results, classes, scale):
 
     return class_label, (x1,y1,x2,y2), torch.max(class_probs)*100, class_label1, (x3,y3,x4,y4), torch.max(class_probs1)*100, class_label2, (x5,y5,x6,y6), torch.max(class_probs2)*100, 
 
-def predict(image, number_model, scale, showfinalimage, saveimage, classes, savedir):
+def predict(image, number_model, scale, showfinalimage, saveimage, classes, savedir, recall = False):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = Network(True)
     model = model.to(device)
-    model.load_state_dict(torch.load(savedir+"/model_ep"+str(number_model)+".pth"))
+    #model.load_state_dict(torch.load(savedir+"/model_ep"+str(number_model)+".pth"))
+    model.load_state_dict(torch.load(savedir+"/model_ep"+str(number_model)+".pth", map_location=torch.device('cpu')))
     model.eval()
-    
+
     # Reading Image
     img  = cv2.imread(image)
 
@@ -87,28 +88,27 @@ def predict(image, number_model, scale, showfinalimage, saveimage, classes, save
     
 
     #print("Informazioni")
-    print(image[-10:])
-    print(label, confidence.item())
-    print(label1, confidence1.item())
-    print(label2, confidence2.item())
+    
+    labels = [label, label1, label2]
+    confidences = [confidence.item(), confidence1.item(), confidence2.item()]
+    for l, c in zip(labels, confidences):
+        if c >= 70:
+            pass #print(l, c)
+
     imageinfo_filename = str(image[-10:-4]) + ".json"
     
     with open("./assignment_1/test/all_annotations/" + imageinfo_filename, 'r') as f:
         data = json.loads(f.read())
         array = items(data)
-    cat = ""
-    for item in array:
-        cat += str(item["category_name"]) + " - "
+    if recall:
+        print(image[-10:], len(array))  
+        for item in array:
+            print(item["category_name"], labels)
     
-    cv2.putText(img, cat[0:-3], (10, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 0, 0), 2)   
-
-    print("La foto contiene: " + str(cat))
-
     # Showing and saving predicted
     plt.imshow(img[:,:,::-1])
     if saveimage:
         plt.savefig("./immagini/" + image[-10:])
     if showfinalimage:
         plt.show()
-
     #qui dobbiamo fare un bel return con quante ne predice giuste
