@@ -47,7 +47,7 @@ real = {
 }
 
 if __name__ == "__main__":
-    filein = open("a.txt", "r")
+    filein = open("pred.txt", "r")
 
     while(filein):
         line = filein.readline()
@@ -73,9 +73,53 @@ if __name__ == "__main__":
                 real[realval][wrongprediction] += 1
                 
         
-    for key, val in real.items():
+    '''for key, val in real.items():
         print(f"{key:30}", end = " ")
         for kk, vv in val.items():
             print(f"{vv:5}", end = "   ")
         
-        print()
+        print()'''
+
+    row = []
+    column = []
+    TP = []
+    FN = []
+    FP = []
+    TN = []
+    for a in real:
+        c = 0
+        for b in real:
+            c += real[a][b]
+            if a == b:
+                TP.append(real[a][b])
+        row.append(c)
+    accuracy = 0
+    for a in real:
+        c = 0
+        for b in real:
+            c += real[b][a]
+        column.append(c)
+    for a, b in zip(row, TP):
+        accuracy += b/a
+        FN.append(a-b)
+    for a, b in zip(column, TP):
+        FP.append(a-b)
+    total = sum(row)
+    for a,b,c in zip (TP, FP, FN):
+        TN.append(total - a - b - c)
+    accuracy /= 13
+    print(accuracy)
+
+    recall = []
+    precision = []
+    for tp, fp in zip(TP,FP):
+        precision.append(round(tp/(tp+fp), 3))
+
+    for tp, fn in zip(TP,FN):
+        recall.append(round(tp/(tp+fn), 3))
+    
+    print("Precision")
+    print(precision)
+    print("Recall")
+    print(recall)
+
