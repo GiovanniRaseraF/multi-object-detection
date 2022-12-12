@@ -1,0 +1,2661 @@
+Image:> 000001.jpg 2
+vest, long sleeve top, short sleeve top, sling dress, False
+sling dress, long sleeve top, short sleeve top, sling dress, True
+Image:> 000002.jpg 2
+vest, long sleeve top, skirt, sling dress, False
+sling dress, long sleeve top, skirt, sling dress, True
+Image:> 000003.jpg 1
+short sleeve dress, short sleeve outwear, skirt, vest, False
+Image:> 000004.jpg 1
+short sleeve dress, short sleeve outwear, sling, vest dress, False
+Image:> 000005.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000006.jpg 1
+vest dress, long sleeve dress, sling, sling dress, False
+Image:> 000007.jpg 1
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000008.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000009.jpg 1
+vest dress, long sleeve dress, short sleeve top, trousers, False
+Image:> 000010.jpg 2
+short sleeve dress, long sleeve dress, sling, vest dress, False
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000011.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, trousers, False
+Image:> 000012.jpg 1
+short sleeve dress, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000013.jpg 1
+short sleeve dress, long sleeve dress, skirt, sling dress, False
+Image:> 000014.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000015.jpg 2
+trousers, long sleeve dress, short sleeve top, vest dress, False
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000016.jpg 1
+short sleeve dress, short sleeve dress, skirt, sling dress, True
+Image:> 000017.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000018.jpg 1
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000019.jpg 1
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000020.jpg 2
+long sleeve top, short sleeve dress, short sleeve top, vest, False
+trousers, short sleeve dress, short sleeve top, vest, False
+Image:> 000021.jpg 1
+long sleeve top, long sleeve outwear, short sleeve top, vest, False
+Image:> 000022.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest, True
+Image:> 000023.jpg 1
+short sleeve top, long sleeve dress, sling, vest, False
+Image:> 000024.jpg 2
+short sleeve top, long sleeve dress, skirt, sling dress, False
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000025.jpg 1
+short sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000026.jpg 1
+short sleeve top, long sleeve dress, sling, vest, False
+Image:> 000027.jpg 1
+skirt, long sleeve top, skirt, sling dress, True
+Image:> 000028.jpg 1
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000029.jpg 1
+skirt, long sleeve dress, sling, vest dress, False
+Image:> 000030.jpg 2
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000031.jpg 1
+skirt, long sleeve dress, shorts, sling dress, False
+Image:> 000032.jpg 1
+trousers, short sleeve dress, shorts, sling dress, False
+Image:> 000033.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000034.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000035.jpg 2
+long sleeve top, long sleeve top, short sleeve top, vest, True
+trousers, long sleeve top, short sleeve top, vest, False
+Image:> 000036.jpg 2
+long sleeve top, long sleeve dress, skirt, sling dress, False
+trousers, long sleeve dress, skirt, sling dress, False
+Image:> 000037.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+Image:> 000038.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000039.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+Image:> 000040.jpg 1
+long sleeve top, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000041.jpg 1
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000042.jpg 1
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000043.jpg 1
+skirt, short sleeve outwear, short sleeve top, vest, False
+Image:> 000044.jpg 1
+skirt, long sleeve dress, sling, vest dress, False
+Image:> 000045.jpg 2
+short sleeve top, long sleeve outwear, skirt, vest, False
+skirt, long sleeve outwear, skirt, vest, True
+Image:> 000046.jpg 1
+skirt, long sleeve top, short sleeve top, vest, False
+Image:> 000047.jpg 1
+skirt, long sleeve dress, skirt, vest, True
+Image:> 000048.jpg 1
+skirt, long sleeve top, sling, vest, False
+Image:> 000049.jpg 2
+short sleeve top, long sleeve dress, skirt, vest dress, False
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000050.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+skirt, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000051.jpg 2
+short sleeve top, short sleeve dress, sling, vest dress, False
+skirt, short sleeve dress, sling, vest dress, False
+Image:> 000052.jpg 2
+short sleeve top, short sleeve dress, sling, trousers, False
+skirt, short sleeve dress, sling, trousers, False
+Image:> 000053.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000054.jpg 1
+skirt, long sleeve dress, sling, vest dress, False
+Image:> 000055.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, trousers, True
+skirt, short sleeve dress, short sleeve top, trousers, False
+Image:> 000056.jpg 1
+skirt, long sleeve dress, shorts, vest, False
+Image:> 000057.jpg 1
+skirt, long sleeve top, short sleeve top, vest, False
+Image:> 000058.jpg 1
+skirt, long sleeve top, shorts, trousers, False
+Image:> 000059.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, vest dress, True
+skirt, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000060.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+skirt, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000061.jpg 1
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000062.jpg 1
+long sleeve dress, long sleeve dress, sling, sling dress, True
+Image:> 000063.jpg 1
+long sleeve dress, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000064.jpg 1
+long sleeve dress, long sleeve top, shorts, sling dress, False
+Image:> 000065.jpg 1
+long sleeve dress, long sleeve top, sling, trousers, False
+Image:> 000066.jpg 2
+long sleeve top, long sleeve top, short sleeve top, vest, True
+trousers, long sleeve top, short sleeve top, vest, False
+Image:> 000067.jpg 2
+long sleeve top, long sleeve outwear, sling, sling dress, False
+trousers, long sleeve outwear, sling, sling dress, False
+Image:> 000068.jpg 2
+long sleeve top, short sleeve dress, shorts, sling dress, False
+trousers, short sleeve dress, shorts, sling dress, False
+Image:> 000069.jpg 2
+short sleeve top, short sleeve outwear, skirt, vest, False
+skirt, short sleeve outwear, skirt, vest, True
+Image:> 000070.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+trousers, short sleeve dress, short sleeve top, vest, False
+Image:> 000071.jpg 2
+short sleeve top, long sleeve top, skirt, sling dress, False
+skirt, long sleeve top, skirt, sling dress, True
+Image:> 000072.jpg 2
+short sleeve top, short sleeve dress, sling, vest, False
+trousers, short sleeve dress, sling, vest, False
+Image:> 000073.jpg 2
+short sleeve top, long sleeve outwear, short sleeve top, sling dress, True
+skirt, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000074.jpg 2
+short sleeve top, long sleeve top, skirt, vest, False
+skirt, long sleeve top, skirt, vest, True
+Image:> 000075.jpg 2
+short sleeve top, long sleeve top, skirt, trousers, False
+trousers, long sleeve top, skirt, trousers, True
+Image:> 000076.jpg 2
+short sleeve top, short sleeve dress, shorts, vest dress, False
+skirt, short sleeve dress, shorts, vest dress, False
+Image:> 000077.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+shorts, long sleeve dress, short sleeve top, vest, False
+Image:> 000078.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+shorts, long sleeve top, sling, vest, False
+Image:> 000079.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000080.jpg 1
+vest, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000081.jpg 1
+vest, long sleeve outwear, skirt, vest, True
+Image:> 000082.jpg 1
+vest, long sleeve top, skirt, sling dress, False
+Image:> 000083.jpg 2
+vest, long sleeve outwear, skirt, vest, True
+shorts, long sleeve outwear, skirt, vest, False
+Image:> 000084.jpg 1
+vest, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000085.jpg 1
+short sleeve dress, short sleeve dress, skirt, vest, True
+Image:> 000086.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000087.jpg 2
+short sleeve dress, long sleeve top, short sleeve top, vest, False
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000088.jpg 2
+short sleeve dress, long sleeve top, short sleeve top, vest, False
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000089.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, trousers, False
+Image:> 000090.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 000091.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, trousers, False
+Image:> 000092.jpg 1
+short sleeve dress, long sleeve top, sling, vest, False
+Image:> 000093.jpg 2
+short sleeve top, long sleeve outwear, shorts, trousers, False
+short sleeve dress, long sleeve outwear, shorts, trousers, False
+Image:> 000094.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, trousers, False
+Image:> 000095.jpg 1
+short sleeve dress, long sleeve outwear, sling, vest dress, False
+Image:> 000096.jpg 2
+short sleeve dress, long sleeve top, short sleeve top, vest, False
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000097.jpg 1
+short sleeve dress, long sleeve dress, shorts, vest, False
+Image:> 000098.jpg 1
+short sleeve dress, long sleeve top, skirt, trousers, False
+Image:> 000099.jpg 1
+short sleeve dress, long sleeve outwear, sling, vest dress, False
+Image:> 000100.jpg 1
+long sleeve dress, long sleeve dress, skirt, vest, True
+Image:> 000101.jpg 1
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000102.jpg 1
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000103.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 000104.jpg 1
+long sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000105.jpg 1
+long sleeve top, long sleeve dress, skirt, vest, False
+Image:> 000106.jpg 1
+long sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000107.jpg 1
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000108.jpg 1
+long sleeve top, long sleeve dress, sling, vest, False
+Image:> 000109.jpg 1
+long sleeve outwear, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000110.jpg 1
+long sleeve outwear, long sleeve outwear, short sleeve top, vest dress, True
+Image:> 000111.jpg 2
+vest, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000112.jpg 2
+vest, long sleeve top, short sleeve top, vest, True
+skirt, long sleeve top, short sleeve top, vest, False
+Image:> 000113.jpg 2
+vest, long sleeve dress, shorts, vest dress, False
+skirt, long sleeve dress, shorts, vest dress, False
+Image:> 000114.jpg 2
+vest, long sleeve dress, skirt, vest dress, False
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000115.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, vest dress, True
+skirt, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000116.jpg 2
+vest, long sleeve dress, sling, vest dress, False
+skirt, long sleeve dress, sling, vest dress, False
+Image:> 000117.jpg 2
+vest, long sleeve dress, shorts, vest dress, False
+skirt, long sleeve dress, shorts, vest dress, False
+Image:> 000118.jpg 2
+vest, short sleeve outwear, short sleeve top, vest, True
+skirt, short sleeve outwear, short sleeve top, vest, False
+Image:> 000119.jpg 2
+vest, short sleeve dress, sling, vest dress, False
+skirt, short sleeve dress, sling, vest dress, False
+Image:> 000120.jpg 2
+vest, long sleeve dress, short sleeve top, vest, True
+skirt, long sleeve dress, short sleeve top, vest, False
+Image:> 000121.jpg 3
+vest, long sleeve top, shorts, sling dress, False
+skirt, long sleeve top, shorts, sling dress, False
+short sleeve top, long sleeve top, shorts, sling dress, False
+Image:> 000122.jpg 1
+vest, long sleeve outwear, sling, vest, True
+Image:> 000123.jpg 2
+vest, long sleeve outwear, sling, vest dress, False
+skirt, long sleeve outwear, sling, vest dress, False
+Image:> 000124.jpg 2
+vest, long sleeve outwear, sling, vest dress, False
+skirt, long sleeve outwear, sling, vest dress, False
+Image:> 000125.jpg 1
+long sleeve top, long sleeve dress, skirt, trousers, False
+Image:> 000126.jpg 2
+long sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000127.jpg 2
+sling dress, long sleeve dress, shorts, sling dress, True
+short sleeve top, long sleeve dress, shorts, sling dress, False
+Image:> 000128.jpg 1
+vest dress, long sleeve dress, skirt, sling dress, False
+Image:> 000129.jpg 2
+short sleeve top, long sleeve dress, skirt, sling dress, False
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000130.jpg 2
+short sleeve top, long sleeve top, sling, sling dress, False
+skirt, long sleeve top, sling, sling dress, False
+Image:> 000131.jpg 1
+skirt, short sleeve dress, shorts, sling dress, False
+Image:> 000132.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000133.jpg 2
+short sleeve top, long sleeve dress, skirt, sling dress, False
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000134.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000135.jpg 1
+skirt, long sleeve outwear, shorts, trousers, False
+Image:> 000136.jpg 1
+vest dress, long sleeve top, shorts, trousers, False
+Image:> 000137.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000138.jpg 1
+vest dress, long sleeve outwear, sling, sling dress, False
+Image:> 000139.jpg 1
+vest dress, short sleeve outwear, sling, vest dress, True
+Image:> 000140.jpg 1
+long sleeve outwear, short sleeve outwear, shorts, vest, False
+Image:> 000141.jpg 2
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+trousers, long sleeve top, short sleeve top, trousers, True
+Image:> 000142.jpg 2
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+Image:> 000143.jpg 1
+long sleeve outwear, long sleeve top, shorts, sling dress, False
+Image:> 000144.jpg 1
+long sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000145.jpg 1
+long sleeve outwear, short sleeve dress, skirt, vest dress, False
+Image:> 000146.jpg 1
+long sleeve outwear, short sleeve dress, skirt, vest dress, False
+Image:> 000147.jpg 1
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000148.jpg 1
+long sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000149.jpg 2
+long sleeve top, short sleeve dress, sling, sling dress, False
+trousers, short sleeve dress, sling, sling dress, False
+Image:> 000150.jpg 1
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000151.jpg 1
+long sleeve top, short sleeve outwear, shorts, sling dress, False
+Image:> 000152.jpg 2
+long sleeve top, long sleeve dress, sling, vest dress, False
+trousers, long sleeve dress, sling, vest dress, False
+Image:> 000153.jpg 2
+long sleeve top, long sleeve dress, shorts, trousers, False
+trousers, long sleeve dress, shorts, trousers, True
+Image:> 000154.jpg 2
+long sleeve top, long sleeve dress, shorts, vest, False
+trousers, long sleeve dress, shorts, vest, False
+Image:> 000155.jpg 1
+long sleeve top, short sleeve dress, skirt, vest, False
+Image:> 000156.jpg 1
+long sleeve top, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000157.jpg 1
+long sleeve outwear, long sleeve top, sling, vest, False
+Image:> 000158.jpg 2
+long sleeve top, long sleeve top, sling, vest, True
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000159.jpg 2
+long sleeve top, long sleeve dress, sling, vest dress, False
+long sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000160.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest, False
+Image:> 000161.jpg 2
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+skirt, long sleeve top, short sleeve top, sling dress, False
+Image:> 000162.jpg 1
+long sleeve dress, long sleeve dress, skirt, vest dress, True
+Image:> 000163.jpg 1
+long sleeve dress, short sleeve outwear, skirt, sling dress, False
+Image:> 000164.jpg 1
+long sleeve dress, long sleeve dress, short sleeve top, sling dress, True
+Image:> 000165.jpg 1
+long sleeve dress, long sleeve top, short sleeve top, trousers, False
+Image:> 000166.jpg 1
+long sleeve dress, long sleeve dress, sling, trousers, True
+Image:> 000167.jpg 1
+long sleeve dress, long sleeve outwear, short sleeve top, vest, False
+Image:> 000168.jpg 1
+short sleeve top, long sleeve dress, shorts, vest, False
+Image:> 000169.jpg 2
+vest dress, short sleeve dress, skirt, vest dress, True
+short sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000170.jpg 1
+short sleeve top, long sleeve dress, shorts, vest dress, False
+Image:> 000171.jpg 2
+vest dress, short sleeve dress, short sleeve top, vest, False
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000172.jpg 2
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000173.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000174.jpg 1
+short sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000175.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000176.jpg 1
+short sleeve top, long sleeve dress, sling, vest, False
+Image:> 000177.jpg 2
+short sleeve top, long sleeve top, shorts, vest, False
+shorts, long sleeve top, shorts, vest, True
+Image:> 000178.jpg 2
+vest dress, long sleeve top, sling, sling dress, False
+short sleeve top, long sleeve top, sling, sling dress, False
+Image:> 000179.jpg 1
+short sleeve top, long sleeve outwear, short sleeve top, vest, True
+Image:> 000180.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+shorts, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000181.jpg 1
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000182.jpg 2
+short sleeve top, short sleeve dress, sling, vest, False
+trousers, short sleeve dress, sling, vest, False
+Image:> 000183.jpg 1
+short sleeve top, long sleeve outwear, sling, vest, False
+Image:> 000184.jpg 1
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000185.jpg 1
+short sleeve top, long sleeve dress, sling, sling dress, False
+Image:> 000186.jpg 1
+short sleeve top, short sleeve dress, sling, sling dress, False
+Image:> 000187.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000188.jpg 1
+short sleeve dress, long sleeve top, shorts, trousers, False
+Image:> 000189.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000190.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000191.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000192.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000193.jpg 1
+long sleeve outwear, long sleeve dress, skirt, sling dress, False
+Image:> 000194.jpg 2
+long sleeve outwear, long sleeve dress, skirt, vest dress, False
+trousers, long sleeve dress, skirt, vest dress, False
+Image:> 000195.jpg 2
+long sleeve outwear, long sleeve top, skirt, trousers, False
+trousers, long sleeve top, skirt, trousers, True
+Image:> 000196.jpg 2
+long sleeve outwear, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000197.jpg 2
+long sleeve outwear, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000198.jpg 1
+long sleeve outwear, long sleeve top, short sleeve top, trousers, False
+Image:> 000199.jpg 1
+long sleeve outwear, long sleeve dress, skirt, sling dress, False
+Image:> 000200.jpg 1
+long sleeve outwear, long sleeve outwear, short sleeve top, trousers, True
+Image:> 000201.jpg 2
+vest, long sleeve dress, skirt, vest dress, False
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000202.jpg 2
+vest, short sleeve dress, short sleeve top, vest, True
+skirt, short sleeve dress, short sleeve top, vest, False
+Image:> 000203.jpg 1
+vest, short sleeve dress, sling, vest, True
+Image:> 000204.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000205.jpg 1
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000206.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000207.jpg 2
+vest, short sleeve dress, sling, sling dress, False
+skirt, short sleeve dress, sling, sling dress, False
+Image:> 000208.jpg 2
+skirt, long sleeve top, sling, sling dress, False
+short sleeve top, long sleeve top, sling, sling dress, False
+Image:> 000209.jpg 1
+skirt, long sleeve top, skirt, vest, True
+Image:> 000210.jpg 1
+skirt, long sleeve outwear, skirt, vest dress, True
+Image:> 000211.jpg 1
+skirt, short sleeve dress, shorts, vest, False
+Image:> 000212.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, vest dress, True
+skirt, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000213.jpg 2
+short sleeve top, short sleeve dress, shorts, vest, False
+skirt, short sleeve dress, shorts, vest, False
+Image:> 000214.jpg 2
+short sleeve top, long sleeve outwear, shorts, trousers, False
+skirt, long sleeve outwear, shorts, trousers, False
+Image:> 000215.jpg 1
+skirt, long sleeve top, short sleeve top, vest, False
+Image:> 000216.jpg 2
+short sleeve top, long sleeve top, shorts, trousers, False
+sling dress, long sleeve top, shorts, trousers, False
+Image:> 000217.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000218.jpg 1
+short sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000219.jpg 2
+short sleeve top, long sleeve top, sling, vest dress, False
+trousers, long sleeve top, sling, vest dress, False
+Image:> 000220.jpg 1
+short sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000221.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, sling dress, True
+Image:> 000222.jpg 1
+short sleeve top, long sleeve outwear, short sleeve top, vest dress, True
+Image:> 000223.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000224.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+shorts, long sleeve top, sling, vest, False
+Image:> 000225.jpg 1
+short sleeve top, long sleeve top, sling, sling dress, False
+Image:> 000226.jpg 1
+short sleeve top, short sleeve dress, sling, vest, False
+Image:> 000227.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000228.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000229.jpg 1
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000230.jpg 1
+short sleeve top, short sleeve dress, sling, vest dress, False
+Image:> 000231.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+trousers, long sleeve dress, short sleeve top, vest, False
+Image:> 000232.jpg 1
+short sleeve top, long sleeve outwear, sling, sling dress, False
+Image:> 000233.jpg 1
+short sleeve top, short sleeve outwear, skirt, sling dress, False
+Image:> 000234.jpg 2
+short sleeve top, long sleeve dress, skirt, sling dress, False
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000235.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+skirt, long sleeve top, sling, vest, False
+Image:> 000236.jpg 1
+long sleeve outwear, long sleeve outwear, shorts, trousers, True
+Image:> 000237.jpg 1
+long sleeve outwear, long sleeve dress, shorts, trousers, False
+Image:> 000238.jpg 2
+trousers, long sleeve dress, shorts, trousers, True
+long sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000239.jpg 1
+trousers, long sleeve top, sling, trousers, True
+Image:> 000240.jpg 1
+long sleeve dress, short sleeve dress, sling, vest, False
+Image:> 000241.jpg 1
+long sleeve dress, long sleeve outwear, skirt, sling dress, False
+Image:> 000242.jpg 1
+long sleeve dress, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000243.jpg 1
+long sleeve dress, long sleeve dress, skirt, vest, True
+Image:> 000244.jpg 2
+long sleeve dress, long sleeve outwear, skirt, trousers, False
+trousers, long sleeve outwear, skirt, trousers, True
+Image:> 000245.jpg 1
+long sleeve dress, long sleeve dress, shorts, vest, True
+Image:> 000246.jpg 1
+long sleeve dress, long sleeve top, shorts, sling dress, False
+Image:> 000247.jpg 1
+long sleeve dress, long sleeve dress, skirt, vest, True
+Image:> 000248.jpg 1
+long sleeve dress, long sleeve top, sling, vest, False
+Image:> 000249.jpg 1
+long sleeve dress, long sleeve outwear, shorts, vest, False
+Image:> 000250.jpg 1
+long sleeve dress, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000251.jpg 1
+long sleeve dress, long sleeve dress, short sleeve top, vest, True
+Image:> 000252.jpg 2
+long sleeve dress, long sleeve dress, skirt, vest dress, True
+trousers, long sleeve dress, skirt, vest dress, False
+Image:> 000253.jpg 2
+long sleeve dress, long sleeve outwear, short sleeve top, vest, False
+trousers, long sleeve outwear, short sleeve top, vest, False
+Image:> 000254.jpg 1
+long sleeve dress, long sleeve dress, sling, sling dress, True
+Image:> 000255.jpg 2
+trousers, short sleeve dress, short sleeve top, trousers, True
+long sleeve dress, short sleeve dress, short sleeve top, trousers, False
+Image:> 000256.jpg 1
+long sleeve dress, long sleeve outwear, short sleeve top, vest dress, False
+Image:> 000257.jpg 1
+long sleeve dress, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000258.jpg 4
+long sleeve dress, long sleeve top, shorts, vest, False
+trousers, long sleeve top, shorts, vest, False
+trousers, long sleeve top, shorts, vest, False
+long sleeve top, long sleeve top, shorts, vest, True
+Image:> 000259.jpg 1
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000260.jpg 2
+long sleeve outwear, long sleeve outwear, skirt, sling dress, True
+skirt, long sleeve outwear, skirt, sling dress, True
+Image:> 000261.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, vest dress, True
+skirt, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000262.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+skirt, short sleeve dress, short sleeve top, vest, False
+Image:> 000263.jpg 1
+skirt, long sleeve top, short sleeve top, vest, False
+Image:> 000264.jpg 2
+short sleeve top, short sleeve outwear, skirt, vest dress, False
+skirt, short sleeve outwear, skirt, vest dress, True
+Image:> 000265.jpg 2
+short sleeve top, short sleeve dress, shorts, vest, False
+skirt, short sleeve dress, shorts, vest, False
+Image:> 000266.jpg 1
+skirt, long sleeve top, shorts, trousers, False
+Image:> 000267.jpg 2
+long sleeve outwear, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000268.jpg 2
+short sleeve top, long sleeve dress, skirt, vest dress, False
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000269.jpg 1
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000270.jpg 2
+short sleeve outwear, short sleeve dress, shorts, vest, False
+skirt, short sleeve dress, shorts, vest, False
+Image:> 000271.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000272.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000273.jpg 2
+short sleeve top, short sleeve dress, shorts, vest, False
+trousers, short sleeve dress, shorts, vest, False
+Image:> 000274.jpg 1
+short sleeve top, long sleeve dress, skirt, vest, False
+Image:> 000275.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000276.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000277.jpg 1
+short sleeve top, long sleeve dress, shorts, vest dress, False
+Image:> 000278.jpg 1
+short sleeve top, long sleeve top, shorts, vest, False
+Image:> 000279.jpg 1
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000280.jpg 2
+short sleeve top, long sleeve outwear, sling, trousers, False
+trousers, long sleeve outwear, sling, trousers, True
+Image:> 000281.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+skirt, long sleeve top, sling, vest, False
+Image:> 000282.jpg 2
+short sleeve top, long sleeve dress, shorts, trousers, False
+short sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000283.jpg 1
+short sleeve top, short sleeve dress, skirt, vest, False
+Image:> 000284.jpg 1
+short sleeve top, long sleeve top, shorts, trousers, False
+Image:> 000285.jpg 1
+short sleeve top, long sleeve dress, shorts, vest dress, False
+Image:> 000286.jpg 1
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000287.jpg 1
+short sleeve top, short sleeve dress, sling, vest, False
+Image:> 000288.jpg 1
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000289.jpg 1
+trousers, long sleeve dress, skirt, sling dress, False
+Image:> 000290.jpg 2
+trousers, long sleeve outwear, shorts, trousers, True
+short sleeve top, long sleeve outwear, shorts, trousers, False
+Image:> 000291.jpg 1
+trousers, long sleeve outwear, sling, vest dress, False
+Image:> 000292.jpg 1
+trousers, long sleeve dress, skirt, trousers, True
+Image:> 000293.jpg 2
+trousers, long sleeve dress, short sleeve top, trousers, True
+short sleeve top, long sleeve dress, short sleeve top, trousers, True
+Image:> 000294.jpg 1
+trousers, long sleeve dress, skirt, trousers, True
+Image:> 000295.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000296.jpg 1
+trousers, long sleeve dress, skirt, vest dress, False
+Image:> 000297.jpg 1
+vest dress, long sleeve outwear, short sleeve top, trousers, False
+Image:> 000298.jpg 1
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000299.jpg 1
+vest dress, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000300.jpg 1
+vest dress, short sleeve dress, sling, vest dress, True
+Image:> 000301.jpg 1
+vest dress, short sleeve dress, shorts, vest dress, True
+Image:> 000302.jpg 1
+vest dress, short sleeve dress, sling, vest dress, True
+Image:> 000303.jpg 1
+vest dress, long sleeve dress, skirt, vest, False
+Image:> 000304.jpg 1
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000305.jpg 2
+short sleeve top, long sleeve top, skirt, vest, False
+skirt, long sleeve top, skirt, vest, True
+Image:> 000306.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000307.jpg 1
+vest, short sleeve dress, sling, vest dress, False
+Image:> 000308.jpg 1
+long sleeve top, long sleeve outwear, sling, sling dress, False
+Image:> 000309.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000310.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000311.jpg 1
+long sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000312.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000313.jpg 1
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000314.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000315.jpg 1
+long sleeve top, short sleeve dress, sling, vest, False
+Image:> 000316.jpg 1
+long sleeve outwear, long sleeve dress, short sleeve top, vest, False
+Image:> 000317.jpg 1
+long sleeve top, short sleeve dress, skirt, vest, False
+Image:> 000318.jpg 2
+long sleeve top, long sleeve outwear, skirt, vest, False
+skirt, long sleeve outwear, skirt, vest, True
+Image:> 000319.jpg 2
+long sleeve top, long sleeve dress, skirt, vest, False
+skirt, long sleeve dress, skirt, vest, True
+Image:> 000320.jpg 1
+long sleeve top, short sleeve outwear, shorts, sling dress, False
+Image:> 000321.jpg 2
+long sleeve top, long sleeve dress, sling, vest dress, False
+skirt, long sleeve dress, sling, vest dress, False
+Image:> 000322.jpg 2
+long sleeve top, long sleeve outwear, sling, trousers, False
+trousers, long sleeve outwear, sling, trousers, True
+Image:> 000323.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+Image:> 000324.jpg 2
+long sleeve top, short sleeve dress, sling, sling dress, False
+skirt, short sleeve dress, sling, sling dress, False
+Image:> 000325.jpg 1
+long sleeve outwear, long sleeve dress, sling, vest dress, False
+Image:> 000326.jpg 1
+long sleeve outwear, long sleeve top, sling, vest, False
+Image:> 000327.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000328.jpg 1
+long sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000329.jpg 1
+long sleeve outwear, long sleeve top, sling, vest, False
+Image:> 000330.jpg 1
+short sleeve top, long sleeve outwear, sling, vest, False
+Image:> 000331.jpg 1
+short sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000332.jpg 1
+short sleeve top, long sleeve top, shorts, trousers, False
+Image:> 000333.jpg 2
+short sleeve top, long sleeve dress, skirt, vest dress, False
+shorts, long sleeve dress, skirt, vest dress, False
+Image:> 000334.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000335.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000336.jpg 1
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000337.jpg 1
+short sleeve top, short sleeve dress, shorts, vest dress, False
+Image:> 000338.jpg 1
+short sleeve top, long sleeve outwear, shorts, sling dress, False
+Image:> 000339.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000340.jpg 2
+short sleeve top, short sleeve dress, skirt, trousers, False
+short sleeve top, short sleeve dress, skirt, trousers, False
+Image:> 000341.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000342.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000343.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+shorts, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000344.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+shorts, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000345.jpg 2
+short sleeve top, long sleeve top, skirt, sling dress, False
+trousers, long sleeve top, skirt, sling dress, False
+Image:> 000346.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000347.jpg 2
+short sleeve top, long sleeve dress, skirt, vest dress, False
+trousers, long sleeve dress, skirt, vest dress, False
+Image:> 000348.jpg 1
+short sleeve top, long sleeve outwear, skirt, vest, False
+Image:> 000349.jpg 1
+short sleeve top, long sleeve outwear, short sleeve top, vest dress, True
+Image:> 000350.jpg 1
+short sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000351.jpg 2
+short sleeve top, long sleeve dress, skirt, vest, False
+shorts, long sleeve dress, skirt, vest, False
+Image:> 000352.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000353.jpg 2
+short sleeve top, long sleeve top, shorts, vest, False
+shorts, long sleeve top, shorts, vest, True
+Image:> 000354.jpg 1
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000355.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000356.jpg 1
+vest dress, long sleeve dress, shorts, vest, False
+Image:> 000357.jpg 1
+vest dress, long sleeve dress, shorts, vest dress, True
+Image:> 000358.jpg 3
+vest dress, long sleeve outwear, shorts, sling dress, False
+long sleeve top, long sleeve outwear, shorts, sling dress, False
+trousers, long sleeve outwear, shorts, sling dress, False
+Image:> 000359.jpg 2
+long sleeve top, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000360.jpg 1
+trousers, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000361.jpg 1
+trousers, long sleeve top, short sleeve top, vest, False
+Image:> 000362.jpg 1
+vest dress, short sleeve outwear, short sleeve top, vest, False
+Image:> 000363.jpg 1
+vest dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 000364.jpg 2
+vest dress, long sleeve dress, short sleeve top, vest dress, True
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000365.jpg 1
+vest dress, long sleeve top, sling, sling dress, False
+Image:> 000366.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 000367.jpg 2
+vest dress, long sleeve top, shorts, trousers, False
+vest dress, long sleeve top, shorts, trousers, False
+Image:> 000368.jpg 1
+vest dress, long sleeve dress, skirt, sling dress, False
+Image:> 000369.jpg 1
+vest dress, long sleeve dress, shorts, sling dress, False
+Image:> 000370.jpg 1
+vest dress, short sleeve outwear, skirt, vest, False
+Image:> 000371.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, trousers, True
+shorts, long sleeve dress, short sleeve top, trousers, False
+Image:> 000372.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest, True
+Image:> 000373.jpg 2
+sling, long sleeve dress, sling, sling dress, True
+trousers, long sleeve dress, sling, sling dress, False
+Image:> 000374.jpg 1
+sling, short sleeve dress, sling, vest, True
+Image:> 000375.jpg 2
+sling, long sleeve outwear, skirt, sling dress, False
+trousers, long sleeve outwear, skirt, sling dress, False
+Image:> 000376.jpg 2
+sling, long sleeve outwear, sling, vest, True
+trousers, long sleeve outwear, sling, vest, False
+Image:> 000377.jpg 2
+sling, long sleeve dress, sling, sling dress, True
+trousers, long sleeve dress, sling, sling dress, False
+Image:> 000378.jpg 2
+sling, long sleeve dress, sling, trousers, True
+trousers, long sleeve dress, sling, trousers, True
+Image:> 000379.jpg 2
+sling, long sleeve dress, short sleeve top, vest, False
+trousers, long sleeve dress, short sleeve top, vest, False
+Image:> 000380.jpg 2
+sling, long sleeve dress, sling, vest dress, True
+trousers, long sleeve dress, sling, vest dress, False
+Image:> 000381.jpg 1
+sling, long sleeve top, sling, sling dress, True
+Image:> 000382.jpg 2
+sling, long sleeve outwear, sling, trousers, True
+trousers, long sleeve outwear, sling, trousers, True
+Image:> 000383.jpg 1
+skirt, long sleeve top, skirt, vest, True
+Image:> 000384.jpg 1
+skirt, long sleeve outwear, shorts, trousers, False
+Image:> 000385.jpg 1
+skirt, long sleeve dress, skirt, trousers, True
+Image:> 000386.jpg 1
+short sleeve dress, long sleeve dress, skirt, sling dress, False
+Image:> 000387.jpg 2
+short sleeve dress, short sleeve outwear, short sleeve top, vest, False
+trousers, short sleeve outwear, short sleeve top, vest, False
+Image:> 000388.jpg 1
+trousers, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000389.jpg 1
+long sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000390.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000391.jpg 2
+short sleeve top, long sleeve top, skirt, vest, False
+trousers, long sleeve top, skirt, vest, False
+Image:> 000392.jpg 1
+long sleeve dress, long sleeve dress, sling, vest dress, True
+Image:> 000393.jpg 2
+long sleeve dress, long sleeve outwear, skirt, vest dress, False
+trousers, long sleeve outwear, skirt, vest dress, False
+Image:> 000394.jpg 1
+long sleeve dress, long sleeve outwear, skirt, trousers, False
+Image:> 000395.jpg 1
+long sleeve dress, long sleeve top, sling, vest, False
+Image:> 000396.jpg 1
+long sleeve dress, long sleeve top, sling, sling dress, False
+Image:> 000397.jpg 1
+long sleeve dress, long sleeve top, skirt, sling dress, False
+Image:> 000398.jpg 1
+long sleeve dress, long sleeve top, skirt, vest dress, False
+Image:> 000399.jpg 1
+long sleeve dress, long sleeve top, short sleeve top, vest, False
+Image:> 000400.jpg 1
+long sleeve dress, long sleeve top, sling, vest, False
+Image:> 000401.jpg 1
+long sleeve dress, short sleeve dress, shorts, sling dress, False
+Image:> 000402.jpg 1
+long sleeve dress, short sleeve dress, skirt, vest dress, False
+Image:> 000403.jpg 1
+long sleeve dress, long sleeve top, skirt, sling dress, False
+Image:> 000404.jpg 1
+long sleeve dress, long sleeve top, short sleeve top, trousers, False
+Image:> 000405.jpg 2
+short sleeve top, long sleeve top, shorts, sling dress, False
+shorts, long sleeve top, shorts, sling dress, True
+Image:> 000406.jpg 1
+short sleeve top, long sleeve top, shorts, vest, False
+Image:> 000407.jpg 2
+long sleeve top, short sleeve dress, sling, trousers, False
+trousers, short sleeve dress, sling, trousers, True
+Image:> 000408.jpg 2
+long sleeve top, long sleeve outwear, skirt, vest, False
+trousers, long sleeve outwear, skirt, vest, False
+Image:> 000409.jpg 1
+long sleeve top, long sleeve outwear, skirt, vest dress, False
+Image:> 000410.jpg 1
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000411.jpg 2
+long sleeve top, short sleeve dress, shorts, vest, False
+trousers, short sleeve dress, shorts, vest, False
+Image:> 000412.jpg 1
+long sleeve top, long sleeve top, shorts, vest, True
+Image:> 000413.jpg 1
+long sleeve top, short sleeve dress, sling, vest, False
+Image:> 000414.jpg 2
+long sleeve top, long sleeve outwear, shorts, trousers, False
+trousers, long sleeve outwear, shorts, trousers, True
+Image:> 000415.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, trousers, False
+Image:> 000416.jpg 1
+long sleeve top, short sleeve outwear, sling, vest dress, False
+Image:> 000417.jpg 1
+long sleeve top, short sleeve dress, skirt, vest, False
+Image:> 000418.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+skirt, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000419.jpg 1
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000420.jpg 2
+skirt, long sleeve dress, skirt, sling dress, True
+short sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000421.jpg 3
+skirt, long sleeve top, sling, vest, False
+long sleeve top, long sleeve top, sling, vest, True
+trousers, long sleeve top, sling, vest, False
+Image:> 000422.jpg 2
+skirt, long sleeve dress, shorts, trousers, False
+long sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000423.jpg 2
+skirt, short sleeve dress, sling, sling dress, False
+long sleeve top, short sleeve dress, sling, sling dress, False
+Image:> 000424.jpg 2
+skirt, long sleeve dress, short sleeve top, vest dress, False
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000425.jpg 2
+skirt, long sleeve dress, shorts, trousers, False
+long sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000426.jpg 3
+trousers, long sleeve top, short sleeve top, trousers, True
+skirt, long sleeve top, short sleeve top, trousers, False
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000427.jpg 2
+skirt, short sleeve dress, skirt, vest, True
+long sleeve top, short sleeve dress, skirt, vest, False
+Image:> 000428.jpg 2
+skirt, long sleeve dress, skirt, sling dress, True
+long sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000429.jpg 3
+skirt, long sleeve dress, short sleeve top, trousers, False
+trousers, long sleeve dress, short sleeve top, trousers, True
+long sleeve top, long sleeve dress, short sleeve top, trousers, False
+Image:> 000430.jpg 2
+skirt, long sleeve outwear, sling, sling dress, False
+long sleeve top, long sleeve outwear, sling, sling dress, False
+Image:> 000431.jpg 3
+skirt, short sleeve dress, skirt, sling dress, True
+trousers, short sleeve dress, skirt, sling dress, False
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000432.jpg 2
+skirt, long sleeve top, sling, trousers, False
+long sleeve top, long sleeve top, sling, trousers, True
+Image:> 000433.jpg 2
+skirt, short sleeve dress, skirt, sling dress, True
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000434.jpg 2
+skirt, short sleeve dress, shorts, sling dress, False
+long sleeve top, short sleeve dress, shorts, sling dress, False
+Image:> 000435.jpg 2
+vest, short sleeve dress, short sleeve top, trousers, False
+vest dress, short sleeve dress, short sleeve top, trousers, False
+Image:> 000436.jpg 2
+vest, long sleeve top, short sleeve top, trousers, False
+vest dress, long sleeve top, short sleeve top, trousers, False
+Image:> 000437.jpg 2
+vest, short sleeve dress, skirt, sling dress, False
+vest dress, short sleeve dress, skirt, sling dress, False
+Image:> 000438.jpg 2
+vest, long sleeve top, sling, vest, True
+vest dress, long sleeve top, sling, vest, False
+Image:> 000439.jpg 2
+vest, long sleeve top, sling, sling dress, False
+vest dress, long sleeve top, sling, sling dress, False
+Image:> 000440.jpg 2
+vest dress, long sleeve dress, sling, vest, False
+vest, long sleeve dress, sling, vest, True
+Image:> 000441.jpg 2
+vest, long sleeve dress, sling, vest, True
+vest dress, long sleeve dress, sling, vest, False
+Image:> 000442.jpg 2
+vest, long sleeve dress, skirt, vest, True
+vest dress, long sleeve dress, skirt, vest, False
+Image:> 000443.jpg 3
+short sleeve top, long sleeve dress, sling, sling dress, False
+vest, long sleeve dress, sling, sling dress, False
+vest dress, long sleeve dress, sling, sling dress, False
+Image:> 000444.jpg 2
+short sleeve top, long sleeve dress, skirt, vest, False
+trousers, long sleeve dress, skirt, vest, False
+Image:> 000445.jpg 1
+vest dress, long sleeve top, short sleeve top, vest, False
+Image:> 000446.jpg 1
+long sleeve dress, long sleeve dress, skirt, sling dress, True
+Image:> 000447.jpg 1
+long sleeve dress, long sleeve dress, sling, sling dress, True
+Image:> 000448.jpg 1
+vest dress, long sleeve outwear, shorts, trousers, False
+Image:> 000449.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 000450.jpg 1
+skirt, long sleeve dress, short sleeve top, vest, False
+Image:> 000451.jpg 2
+trousers, long sleeve outwear, sling, sling dress, False
+short sleeve top, long sleeve outwear, sling, sling dress, False
+Image:> 000452.jpg 2
+short sleeve top, short sleeve dress, sling, sling dress, False
+trousers, short sleeve dress, sling, sling dress, False
+Image:> 000453.jpg 2
+short sleeve top, short sleeve outwear, skirt, vest, False
+trousers, short sleeve outwear, skirt, vest, False
+Image:> 000454.jpg 2
+short sleeve top, short sleeve dress, shorts, vest dress, False
+shorts, short sleeve dress, shorts, vest dress, True
+Image:> 000455.jpg 2
+short sleeve top, short sleeve dress, skirt, vest, False
+shorts, short sleeve dress, skirt, vest, False
+Image:> 000456.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000457.jpg 2
+short sleeve top, long sleeve top, shorts, vest, False
+trousers, long sleeve top, shorts, vest, False
+Image:> 000458.jpg 1
+long sleeve dress, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000459.jpg 1
+long sleeve dress, short sleeve dress, sling, vest dress, False
+Image:> 000460.jpg 1
+long sleeve dress, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000461.jpg 1
+long sleeve dress, long sleeve dress, short sleeve top, sling dress, True
+Image:> 000462.jpg 1
+long sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000463.jpg 2
+long sleeve top, long sleeve dress, shorts, vest, False
+trousers, long sleeve dress, shorts, vest, False
+Image:> 000464.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000465.jpg 1
+sling dress, long sleeve dress, sling, vest, False
+Image:> 000466.jpg 1
+sling dress, short sleeve dress, sling, sling dress, True
+Image:> 000467.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000468.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+Image:> 000469.jpg 2
+skirt, short sleeve dress, skirt, vest dress, True
+short sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000470.jpg 3
+skirt, long sleeve dress, sling, sling dress, False
+short sleeve top, long sleeve dress, sling, sling dress, False
+trousers, long sleeve dress, sling, sling dress, False
+Image:> 000471.jpg 2
+skirt, long sleeve dress, short sleeve top, sling dress, False
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+Image:> 000472.jpg 1
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000473.jpg 1
+skirt, long sleeve outwear, shorts, sling dress, False
+Image:> 000474.jpg 1
+skirt, long sleeve outwear, skirt, vest, True
+Image:> 000475.jpg 1
+skirt, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000476.jpg 1
+skirt, long sleeve top, shorts, trousers, False
+Image:> 000477.jpg 1
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000478.jpg 1
+skirt, long sleeve dress, skirt, vest dress, True
+Image:> 000479.jpg 1
+skirt, long sleeve outwear, skirt, vest dress, True
+Image:> 000480.jpg 1
+skirt, long sleeve top, sling, vest, False
+Image:> 000481.jpg 3
+skirt, long sleeve top, sling, sling dress, False
+short sleeve top, long sleeve top, sling, sling dress, False
+trousers, long sleeve top, sling, sling dress, False
+Image:> 000482.jpg 1
+skirt, long sleeve outwear, sling, vest, False
+Image:> 000483.jpg 1
+skirt, long sleeve outwear, skirt, vest, True
+Image:> 000484.jpg 1
+skirt, long sleeve dress, skirt, vest, True
+Image:> 000485.jpg 1
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000486.jpg 2
+skirt, short sleeve dress, shorts, vest, False
+short sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000487.jpg 1
+skirt, short sleeve outwear, skirt, sling dress, True
+Image:> 000488.jpg 1
+skirt, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000489.jpg 2
+skirt, long sleeve dress, short sleeve top, sling dress, False
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+Image:> 000490.jpg 2
+short sleeve top, long sleeve top, skirt, vest, False
+skirt, long sleeve top, skirt, vest, True
+Image:> 000491.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000492.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+trousers, short sleeve dress, short sleeve top, vest, False
+Image:> 000493.jpg 2
+trousers, long sleeve dress, short sleeve top, vest, False
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000494.jpg 2
+long sleeve top, long sleeve top, short sleeve top, vest, True
+trousers, long sleeve top, short sleeve top, vest, False
+Image:> 000495.jpg 1
+long sleeve top, long sleeve top, skirt, vest, True
+Image:> 000496.jpg 1
+short sleeve dress, long sleeve dress, sling, vest dress, False
+Image:> 000497.jpg 1
+short sleeve dress, long sleeve dress, sling, vest dress, False
+Image:> 000498.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+skirt, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000499.jpg 2
+short sleeve top, long sleeve dress, sling, vest, False
+skirt, long sleeve dress, sling, vest, False
+Image:> 000500.jpg 2
+short sleeve top, short sleeve dress, sling, vest dress, False
+skirt, short sleeve dress, sling, vest dress, False
+Image:> 000501.jpg 2
+short sleeve top, short sleeve dress, skirt, vest, False
+skirt, short sleeve dress, skirt, vest, True
+Image:> 000502.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+skirt, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000503.jpg 2
+short sleeve top, long sleeve top, skirt, trousers, False
+skirt, long sleeve top, skirt, trousers, True
+Image:> 000504.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000505.jpg 2
+skirt, long sleeve dress, skirt, sling dress, True
+long sleeve outwear, long sleeve dress, skirt, sling dress, False
+Image:> 000506.jpg 2
+long sleeve outwear, long sleeve top, short sleeve top, trousers, False
+skirt, long sleeve top, short sleeve top, trousers, False
+Image:> 000507.jpg 1
+long sleeve outwear, long sleeve top, skirt, sling dress, False
+Image:> 000508.jpg 1
+long sleeve dress, short sleeve dress, shorts, trousers, False
+Image:> 000509.jpg 1
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000510.jpg 2
+short sleeve top, short sleeve outwear, sling, vest, False
+trousers, short sleeve outwear, sling, vest, False
+Image:> 000511.jpg 2
+short sleeve top, long sleeve dress, skirt, vest, False
+short sleeve top, long sleeve dress, skirt, vest, False
+Image:> 000512.jpg 1
+sling, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000513.jpg 1
+sling, long sleeve top, sling, sling dress, True
+Image:> 000514.jpg 2
+sling, short sleeve dress, short sleeve top, vest dress, False
+shorts, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000515.jpg 1
+sling, short sleeve dress, skirt, vest, False
+Image:> 000516.jpg 2
+sling, long sleeve top, sling, sling dress, True
+shorts, long sleeve top, sling, sling dress, False
+Image:> 000517.jpg 1
+sling, long sleeve top, skirt, sling dress, False
+Image:> 000518.jpg 1
+sling, long sleeve top, sling, vest, True
+Image:> 000519.jpg 2
+sling, short sleeve dress, short sleeve top, vest dress, False
+shorts, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000520.jpg 1
+sling, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000521.jpg 2
+skirt, short sleeve outwear, sling, vest, False
+short sleeve top, short sleeve outwear, sling, vest, False
+Image:> 000522.jpg 2
+skirt, short sleeve dress, shorts, vest, False
+short sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000523.jpg 2
+short sleeve top, long sleeve dress, sling, vest dress, False
+skirt, long sleeve dress, sling, vest dress, False
+Image:> 000524.jpg 2
+skirt, short sleeve dress, short sleeve top, vest dress, False
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000525.jpg 2
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+skirt, long sleeve top, short sleeve top, sling dress, False
+Image:> 000526.jpg 2
+skirt, short sleeve dress, skirt, vest dress, True
+long sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 000527.jpg 2
+long sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000528.jpg 2
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+skirt, short sleeve outwear, short sleeve top, vest, False
+Image:> 000529.jpg 2
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+skirt, long sleeve top, short sleeve top, sling dress, False
+Image:> 000530.jpg 2
+short sleeve top, long sleeve top, skirt, vest, False
+skirt, long sleeve top, skirt, vest, True
+Image:> 000531.jpg 2
+long sleeve top, short sleeve outwear, short sleeve top, sling dress, False
+skirt, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000532.jpg 2
+short sleeve top, long sleeve top, sling, sling dress, False
+trousers, long sleeve top, sling, sling dress, False
+Image:> 000533.jpg 2
+skirt, long sleeve outwear, short sleeve top, trousers, False
+short sleeve top, long sleeve outwear, short sleeve top, trousers, True
+Image:> 000534.jpg 2
+short sleeve top, long sleeve top, short sleeve top, trousers, True
+skirt, long sleeve top, short sleeve top, trousers, False
+Image:> 000535.jpg 2
+skirt, short sleeve dress, short sleeve top, vest dress, False
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000536.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+skirt, long sleeve dress, short sleeve top, vest, False
+Image:> 000537.jpg 2
+short sleeve top, short sleeve dress, sling, trousers, False
+skirt, short sleeve dress, sling, trousers, False
+Image:> 000538.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000539.jpg 1
+short sleeve outwear, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000540.jpg 1
+short sleeve top, long sleeve dress, skirt, vest dress, False
+Image:> 000541.jpg 1
+trousers, short sleeve dress, shorts, trousers, True
+Image:> 000542.jpg 2
+shorts, short sleeve dress, shorts, vest, True
+short sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000543.jpg 1
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000544.jpg 1
+long sleeve dress, short sleeve dress, sling, vest, False
+Image:> 000545.jpg 1
+long sleeve dress, long sleeve top, skirt, vest, False
+Image:> 000546.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000547.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000548.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000549.jpg 1
+vest, long sleeve top, sling, vest dress, False
+Image:> 000550.jpg 2
+skirt, short sleeve dress, skirt, vest, True
+vest, short sleeve dress, skirt, vest, True
+Image:> 000551.jpg 1
+vest, long sleeve dress, sling, vest, True
+Image:> 000552.jpg 1
+vest, long sleeve top, short sleeve top, vest, True
+Image:> 000553.jpg 1
+vest, short sleeve dress, short sleeve top, vest, True
+Image:> 000554.jpg 2
+vest, long sleeve top, short sleeve top, sling dress, False
+skirt, long sleeve top, short sleeve top, sling dress, False
+Image:> 000555.jpg 1
+short sleeve top, long sleeve dress, sling, vest, False
+Image:> 000556.jpg 1
+vest dress, long sleeve dress, shorts, vest dress, True
+Image:> 000557.jpg 1
+vest dress, long sleeve dress, sling, vest, False
+Image:> 000558.jpg 1
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000559.jpg 2
+long sleeve dress, long sleeve dress, sling, vest dress, True
+trousers, long sleeve dress, sling, vest dress, False
+Image:> 000560.jpg 2
+long sleeve dress, short sleeve dress, sling, vest dress, False
+trousers, short sleeve dress, sling, vest dress, False
+Image:> 000561.jpg 2
+long sleeve dress, long sleeve dress, sling, sling dress, True
+trousers, long sleeve dress, sling, sling dress, False
+Image:> 000562.jpg 2
+short sleeve dress, long sleeve dress, shorts, sling dress, False
+trousers, long sleeve dress, shorts, sling dress, False
+Image:> 000563.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000564.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000565.jpg 2
+short sleeve dress, long sleeve dress, short sleeve top, sling dress, False
+trousers, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000566.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 000567.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000568.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000569.jpg 1
+short sleeve dress, short sleeve dress, sling, vest, True
+Image:> 000570.jpg 2
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+trousers, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000571.jpg 2
+short sleeve dress, short sleeve dress, skirt, vest dress, True
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000572.jpg 1
+short sleeve dress, long sleeve top, sling, vest, False
+Image:> 000573.jpg 2
+short sleeve top, long sleeve dress, shorts, trousers, False
+trousers, long sleeve dress, shorts, trousers, True
+Image:> 000574.jpg 2
+short sleeve top, long sleeve dress, shorts, sling dress, False
+shorts, long sleeve dress, shorts, sling dress, True
+Image:> 000575.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000576.jpg 2
+short sleeve top, long sleeve dress, shorts, sling dress, False
+shorts, long sleeve dress, shorts, sling dress, True
+Image:> 000577.jpg 2
+short sleeve top, long sleeve dress, shorts, vest, False
+shorts, long sleeve dress, shorts, vest, True
+Image:> 000578.jpg 1
+short sleeve top, long sleeve dress, shorts, vest, False
+Image:> 000579.jpg 2
+skirt, short sleeve dress, skirt, sling dress, True
+short sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000580.jpg 1
+skirt, long sleeve dress, shorts, sling dress, False
+Image:> 000581.jpg 2
+skirt, short sleeve outwear, skirt, vest dress, True
+short sleeve top, short sleeve outwear, skirt, vest dress, False
+Image:> 000582.jpg 2
+skirt, short sleeve dress, short sleeve top, vest dress, False
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000583.jpg 1
+skirt, long sleeve outwear, shorts, sling dress, False
+Image:> 000584.jpg 2
+skirt, long sleeve top, sling, vest, False
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000585.jpg 1
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000586.jpg 1
+skirt, long sleeve dress, skirt, vest, True
+Image:> 000587.jpg 2
+skirt, long sleeve top, short sleeve top, sling dress, False
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+Image:> 000588.jpg 1
+skirt, long sleeve top, shorts, vest, False
+Image:> 000589.jpg 2
+skirt, short sleeve outwear, shorts, sling dress, False
+short sleeve top, short sleeve outwear, shorts, sling dress, False
+Image:> 000590.jpg 2
+skirt, short sleeve outwear, sling, vest, False
+short sleeve top, short sleeve outwear, sling, vest, False
+Image:> 000591.jpg 1
+skirt, long sleeve top, shorts, trousers, False
+Image:> 000592.jpg 1
+skirt, long sleeve top, sling, vest, False
+Image:> 000593.jpg 1
+skirt, long sleeve outwear, shorts, sling dress, False
+Image:> 000594.jpg 2
+skirt, short sleeve dress, short sleeve top, trousers, False
+short sleeve top, short sleeve dress, short sleeve top, trousers, True
+Image:> 000595.jpg 2
+skirt, long sleeve top, sling, sling dress, False
+short sleeve top, long sleeve top, sling, sling dress, False
+Image:> 000596.jpg 1
+skirt, long sleeve top, shorts, vest, False
+Image:> 000597.jpg 1
+skirt, long sleeve dress, shorts, vest, False
+Image:> 000598.jpg 1
+skirt, long sleeve top, skirt, sling dress, True
+Image:> 000599.jpg 1
+skirt, long sleeve dress, sling, sling dress, False
+Image:> 000600.jpg 1
+skirt, long sleeve top, shorts, vest, False
+Image:> 000601.jpg 2
+skirt, long sleeve dress, skirt, vest dress, True
+long sleeve top, long sleeve dress, skirt, vest dress, False
+Image:> 000602.jpg 1
+short sleeve top, long sleeve outwear, skirt, vest dress, False
+Image:> 000603.jpg 2
+short sleeve top, short sleeve dress, shorts, vest, False
+trousers, short sleeve dress, shorts, vest, False
+Image:> 000604.jpg 1
+short sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000605.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000606.jpg 1
+short sleeve top, long sleeve dress, shorts, sling dress, False
+Image:> 000607.jpg 2
+short sleeve top, short sleeve dress, sling, trousers, False
+trousers, short sleeve dress, sling, trousers, True
+Image:> 000608.jpg 2
+short sleeve top, long sleeve outwear, skirt, vest, False
+trousers, long sleeve outwear, skirt, vest, False
+Image:> 000609.jpg 2
+short sleeve top, long sleeve top, skirt, trousers, False
+shorts, long sleeve top, skirt, trousers, False
+Image:> 000610.jpg 2
+short sleeve top, long sleeve outwear, skirt, vest, False
+trousers, long sleeve outwear, skirt, vest, False
+Image:> 000611.jpg 2
+short sleeve top, long sleeve top, shorts, trousers, False
+shorts, long sleeve top, shorts, trousers, True
+Image:> 000612.jpg 2
+short sleeve top, long sleeve top, shorts, trousers, False
+shorts, long sleeve top, shorts, trousers, True
+Image:> 000613.jpg 2
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+skirt, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000614.jpg 2
+long sleeve top, long sleeve dress, skirt, sling dress, False
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000615.jpg 2
+long sleeve top, long sleeve outwear, sling, vest, False
+skirt, long sleeve outwear, sling, vest, False
+Image:> 000616.jpg 2
+long sleeve top, short sleeve dress, skirt, sling dress, False
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000617.jpg 2
+long sleeve top, short sleeve dress, skirt, sling dress, False
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000618.jpg 2
+long sleeve top, long sleeve dress, skirt, sling dress, False
+skirt, long sleeve dress, skirt, sling dress, True
+Image:> 000619.jpg 2
+long sleeve top, long sleeve dress, shorts, sling dress, False
+skirt, long sleeve dress, shorts, sling dress, False
+Image:> 000620.jpg 1
+long sleeve top, long sleeve outwear, shorts, trousers, False
+Image:> 000621.jpg 1
+long sleeve top, short sleeve dress, sling, vest dress, False
+Image:> 000622.jpg 2
+long sleeve top, long sleeve top, shorts, trousers, True
+skirt, long sleeve top, shorts, trousers, False
+Image:> 000623.jpg 2
+long sleeve top, long sleeve top, shorts, trousers, True
+skirt, long sleeve top, shorts, trousers, False
+Image:> 000624.jpg 1
+short sleeve top, long sleeve dress, skirt, vest, False
+Image:> 000625.jpg 1
+short sleeve top, long sleeve top, skirt, vest, False
+Image:> 000626.jpg 1
+short sleeve top, long sleeve dress, skirt, vest dress, False
+Image:> 000627.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000628.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest, True
+Image:> 000629.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000630.jpg 2
+short sleeve top, long sleeve dress, shorts, vest dress, False
+trousers, long sleeve dress, shorts, vest dress, False
+Image:> 000631.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000632.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, sling dress, True
+trousers, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000633.jpg 2
+short sleeve top, long sleeve dress, sling, vest dress, False
+trousers, long sleeve dress, sling, vest dress, False
+Image:> 000634.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest dress, True
+Image:> 000635.jpg 2
+short sleeve top, long sleeve top, skirt, sling dress, False
+trousers, long sleeve top, skirt, sling dress, False
+Image:> 000636.jpg 2
+short sleeve top, long sleeve top, shorts, sling dress, False
+trousers, long sleeve top, shorts, sling dress, False
+Image:> 000637.jpg 1
+short sleeve top, long sleeve top, skirt, vest, False
+Image:> 000638.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000639.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000640.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000641.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000642.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000643.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+shorts, long sleeve dress, short sleeve top, vest, False
+Image:> 000644.jpg 1
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000645.jpg 2
+short sleeve top, short sleeve dress, sling, sling dress, False
+trousers, short sleeve dress, sling, sling dress, False
+Image:> 000646.jpg 1
+short sleeve top, long sleeve top, skirt, vest, False
+Image:> 000647.jpg 2
+short sleeve top, long sleeve dress, shorts, trousers, False
+trousers, long sleeve dress, shorts, trousers, True
+Image:> 000648.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000649.jpg 1
+trousers, long sleeve outwear, shorts, trousers, True
+Image:> 000650.jpg 1
+short sleeve dress, long sleeve top, skirt, sling dress, False
+Image:> 000651.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, vest, False
+Image:> 000652.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000653.jpg 1
+short sleeve dress, long sleeve top, sling, vest, False
+Image:> 000654.jpg 2
+short sleeve top, short sleeve dress, skirt, sling dress, False
+skirt, short sleeve dress, skirt, sling dress, True
+Image:> 000655.jpg 2
+long sleeve top, short sleeve outwear, sling, sling dress, False
+skirt, short sleeve outwear, sling, sling dress, False
+Image:> 000656.jpg 2
+skirt, long sleeve dress, shorts, trousers, False
+long sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000657.jpg 2
+skirt, long sleeve dress, shorts, sling dress, False
+long sleeve top, long sleeve dress, shorts, sling dress, False
+Image:> 000658.jpg 2
+long sleeve top, short sleeve outwear, short sleeve top, vest, False
+skirt, short sleeve outwear, short sleeve top, vest, False
+Image:> 000659.jpg 2
+skirt, long sleeve top, sling, sling dress, False
+long sleeve top, long sleeve top, sling, sling dress, True
+Image:> 000660.jpg 2
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000661.jpg 2
+short sleeve top, long sleeve top, shorts, sling dress, False
+skirt, long sleeve top, shorts, sling dress, False
+Image:> 000662.jpg 2
+long sleeve top, long sleeve top, skirt, sling dress, True
+skirt, long sleeve top, skirt, sling dress, True
+Image:> 000663.jpg 1
+skirt, long sleeve top, short sleeve top, trousers, False
+Image:> 000664.jpg 2
+long sleeve top, long sleeve dress, short sleeve top, sling dress, False
+skirt, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000665.jpg 4
+skirt, long sleeve dress, shorts, sling dress, False
+long sleeve outwear, long sleeve dress, shorts, sling dress, False
+trousers, long sleeve dress, shorts, sling dress, False
+long sleeve top, long sleeve dress, shorts, sling dress, False
+Image:> 000666.jpg 2
+short sleeve top, long sleeve top, shorts, sling dress, False
+skirt, long sleeve top, shorts, sling dress, False
+Image:> 000667.jpg 2
+long sleeve outwear, long sleeve outwear, short sleeve top, trousers, True
+skirt, long sleeve outwear, short sleeve top, trousers, False
+Image:> 000668.jpg 2
+skirt, long sleeve outwear, short sleeve top, vest, False
+long sleeve top, long sleeve outwear, short sleeve top, vest, False
+Image:> 000669.jpg 2
+skirt, short sleeve dress, short sleeve top, vest dress, False
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000670.jpg 1
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000671.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000672.jpg 3
+long sleeve top, long sleeve dress, sling, vest, False
+skirt, long sleeve dress, sling, vest, False
+trousers, long sleeve dress, sling, vest, False
+Image:> 000673.jpg 1
+long sleeve outwear, long sleeve top, short sleeve top, trousers, False
+Image:> 000674.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000675.jpg 1
+long sleeve top, long sleeve outwear, short sleeve top, trousers, False
+Image:> 000676.jpg 1
+short sleeve dress, long sleeve dress, skirt, sling dress, False
+Image:> 000677.jpg 1
+short sleeve dress, long sleeve outwear, sling, sling dress, False
+Image:> 000678.jpg 1
+short sleeve dress, long sleeve dress, skirt, vest dress, False
+Image:> 000679.jpg 2
+short sleeve dress, long sleeve top, short sleeve top, trousers, False
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000680.jpg 1
+short sleeve dress, short sleeve dress, sling, vest dress, True
+Image:> 000681.jpg 1
+short sleeve dress, long sleeve dress, skirt, vest, False
+Image:> 000682.jpg 1
+short sleeve dress, long sleeve top, shorts, sling dress, False
+Image:> 000683.jpg 1
+short sleeve dress, long sleeve dress, sling, vest dress, False
+Image:> 000684.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000685.jpg 1
+short sleeve dress, long sleeve top, sling, sling dress, False
+Image:> 000686.jpg 1
+short sleeve dress, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000687.jpg 1
+short sleeve dress, short sleeve dress, sling, vest dress, True
+Image:> 000688.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 000689.jpg 1
+short sleeve dress, long sleeve dress, skirt, sling dress, False
+Image:> 000690.jpg 1
+short sleeve dress, long sleeve dress, sling, vest, False
+Image:> 000691.jpg 1
+short sleeve dress, short sleeve outwear, skirt, sling dress, False
+Image:> 000692.jpg 1
+short sleeve dress, long sleeve top, sling, sling dress, False
+Image:> 000693.jpg 1
+short sleeve dress, long sleeve dress, sling, vest dress, False
+Image:> 000694.jpg 1
+short sleeve dress, short sleeve dress, skirt, sling dress, True
+Image:> 000695.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000696.jpg 2
+short sleeve dress, short sleeve dress, short sleeve top, sling dress, True
+long sleeve top, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000697.jpg 1
+short sleeve dress, long sleeve top, sling, vest, False
+Image:> 000698.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, trousers, False
+Image:> 000699.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000700.jpg 1
+short sleeve top, long sleeve top, sling, trousers, False
+Image:> 000701.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000702.jpg 1
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000703.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000704.jpg 1
+short sleeve top, long sleeve dress, skirt, vest dress, False
+Image:> 000705.jpg 2
+short sleeve top, long sleeve dress, shorts, vest dress, False
+trousers, long sleeve dress, shorts, vest dress, False
+Image:> 000706.jpg 2
+short sleeve top, long sleeve dress, sling, vest, False
+trousers, long sleeve dress, sling, vest, False
+Image:> 000707.jpg 2
+short sleeve top, long sleeve outwear, sling, vest dress, False
+skirt, long sleeve outwear, sling, vest dress, False
+Image:> 000708.jpg 1
+short sleeve top, long sleeve dress, skirt, sling dress, False
+Image:> 000709.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000710.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000711.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000712.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+trousers, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000713.jpg 2
+long sleeve top, long sleeve outwear, short sleeve top, vest, False
+trousers, long sleeve outwear, short sleeve top, vest, False
+Image:> 000714.jpg 1
+short sleeve dress, long sleeve dress, skirt, vest dress, False
+Image:> 000715.jpg 2
+long sleeve outwear, long sleeve outwear, sling, trousers, True
+trousers, long sleeve outwear, sling, trousers, True
+Image:> 000716.jpg 2
+trousers, long sleeve top, shorts, trousers, True
+short sleeve top, long sleeve top, shorts, trousers, False
+Image:> 000717.jpg 1
+trousers, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000718.jpg 2
+short sleeve top, long sleeve outwear, shorts, trousers, False
+trousers, long sleeve outwear, shorts, trousers, True
+Image:> 000719.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+trousers, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000720.jpg 1
+trousers, long sleeve top, sling, vest, False
+Image:> 000721.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000722.jpg 1
+sling dress, long sleeve top, sling, sling dress, True
+Image:> 000723.jpg 1
+sling dress, short sleeve dress, short sleeve top, vest, False
+Image:> 000724.jpg 1
+long sleeve outwear, short sleeve outwear, short sleeve top, vest, False
+Image:> 000725.jpg 2
+long sleeve outwear, long sleeve dress, shorts, sling dress, False
+trousers, long sleeve dress, shorts, sling dress, False
+Image:> 000726.jpg 1
+long sleeve outwear, long sleeve top, skirt, trousers, False
+Image:> 000727.jpg 1
+long sleeve outwear, long sleeve top, short sleeve top, sling dress, False
+Image:> 000728.jpg 1
+long sleeve top, long sleeve top, skirt, sling dress, True
+Image:> 000729.jpg 1
+sling dress, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000730.jpg 1
+shorts, long sleeve top, shorts, trousers, True
+Image:> 000731.jpg 1
+shorts, long sleeve outwear, shorts, vest, True
+Image:> 000732.jpg 1
+shorts, long sleeve dress, shorts, trousers, True
+Image:> 000733.jpg 1
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000734.jpg 2
+shorts, short sleeve dress, shorts, vest, True
+short sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000735.jpg 1
+shorts, long sleeve dress, shorts, sling dress, True
+Image:> 000736.jpg 1
+shorts, short sleeve outwear, skirt, vest, False
+Image:> 000737.jpg 3
+long sleeve outwear, short sleeve outwear, skirt, sling dress, False
+short sleeve top, short sleeve outwear, skirt, sling dress, False
+trousers, short sleeve outwear, skirt, sling dress, False
+Image:> 000738.jpg 1
+long sleeve top, short sleeve dress, sling, vest dress, False
+Image:> 000739.jpg 1
+long sleeve top, long sleeve top, sling, vest, True
+Image:> 000740.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest, False
+Image:> 000741.jpg 2
+long sleeve outwear, long sleeve top, sling, vest, False
+trousers, long sleeve top, sling, vest, False
+Image:> 000742.jpg 1
+long sleeve outwear, long sleeve outwear, short sleeve top, vest, True
+Image:> 000743.jpg 2
+long sleeve outwear, short sleeve dress, short sleeve top, vest dress, False
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000744.jpg 1
+long sleeve outwear, long sleeve dress, sling, vest dress, False
+Image:> 000745.jpg 1
+trousers, short sleeve dress, short sleeve top, trousers, True
+Image:> 000746.jpg 2
+long sleeve outwear, long sleeve dress, skirt, vest dress, False
+shorts, long sleeve dress, skirt, vest dress, False
+Image:> 000747.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000748.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000749.jpg 1
+trousers, long sleeve dress, shorts, sling dress, False
+Image:> 000750.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000751.jpg 1
+sling dress, long sleeve dress, sling, vest, False
+Image:> 000752.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000753.jpg 1
+vest dress, short sleeve dress, sling, sling dress, False
+Image:> 000754.jpg 1
+sling dress, long sleeve dress, sling, sling dress, True
+Image:> 000755.jpg 1
+sling dress, long sleeve dress, shorts, trousers, False
+Image:> 000756.jpg 1
+skirt, long sleeve dress, shorts, vest, False
+Image:> 000757.jpg 1
+skirt, long sleeve dress, shorts, sling dress, False
+Image:> 000758.jpg 1
+trousers, long sleeve outwear, short sleeve top, vest dress, False
+Image:> 000759.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+skirt, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000760.jpg 2
+skirt, long sleeve top, short sleeve top, trousers, False
+short sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000761.jpg 2
+trousers, short sleeve outwear, skirt, sling dress, False
+short sleeve outwear, short sleeve outwear, skirt, sling dress, True
+Image:> 000762.jpg 1
+trousers, short sleeve outwear, shorts, trousers, True
+Image:> 000763.jpg 2
+trousers, long sleeve outwear, sling, vest dress, False
+short sleeve top, long sleeve outwear, sling, vest dress, False
+Image:> 000764.jpg 1
+trousers, long sleeve dress, shorts, trousers, True
+Image:> 000765.jpg 1
+trousers, short sleeve outwear, short sleeve top, vest, False
+Image:> 000766.jpg 2
+trousers, long sleeve top, shorts, trousers, True
+short sleeve top, long sleeve top, shorts, trousers, False
+Image:> 000767.jpg 1
+trousers, long sleeve dress, sling, sling dress, False
+Image:> 000768.jpg 1
+trousers, long sleeve dress, shorts, trousers, True
+Image:> 000769.jpg 1
+trousers, long sleeve top, skirt, vest, False
+Image:> 000770.jpg 2
+short sleeve top, long sleeve outwear, sling, vest dress, False
+trousers, long sleeve outwear, sling, vest dress, False
+Image:> 000771.jpg 2
+trousers, long sleeve dress, short sleeve top, vest, False
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000772.jpg 1
+sling dress, short sleeve outwear, shorts, vest, False
+Image:> 000773.jpg 2
+trousers, short sleeve outwear, short sleeve top, sling dress, False
+long sleeve top, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000774.jpg 1
+skirt, long sleeve dress, shorts, sling dress, False
+Image:> 000775.jpg 2
+skirt, short sleeve dress, shorts, vest, False
+short sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000776.jpg 1
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000777.jpg 1
+skirt, short sleeve dress, shorts, vest, False
+Image:> 000778.jpg 2
+short sleeve top, long sleeve outwear, skirt, vest, False
+trousers, long sleeve outwear, skirt, vest, False
+Image:> 000779.jpg 2
+short sleeve top, long sleeve dress, skirt, sling dress, False
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000780.jpg 1
+short sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000781.jpg 2
+vest dress, long sleeve top, skirt, sling dress, False
+long sleeve top, long sleeve top, skirt, sling dress, True
+Image:> 000782.jpg 2
+long sleeve top, long sleeve dress, skirt, vest dress, False
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000783.jpg 2
+vest dress, short sleeve dress, skirt, sling dress, False
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000784.jpg 2
+long sleeve top, long sleeve outwear, skirt, vest, False
+vest dress, long sleeve outwear, skirt, vest, False
+Image:> 000785.jpg 3
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+long sleeve top, long sleeve dress, short sleeve top, sling dress, False
+trousers, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000786.jpg 2
+vest dress, short sleeve dress, skirt, sling dress, False
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000787.jpg 2
+long sleeve top, long sleeve dress, skirt, sling dress, False
+vest dress, long sleeve dress, skirt, sling dress, False
+Image:> 000788.jpg 2
+vest dress, long sleeve top, short sleeve top, vest, False
+long sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 000789.jpg 2
+long sleeve top, short sleeve dress, skirt, vest, False
+vest dress, short sleeve dress, skirt, vest, False
+Image:> 000790.jpg 2
+vest dress, long sleeve top, skirt, vest, False
+long sleeve top, long sleeve top, skirt, vest, True
+Image:> 000791.jpg 2
+long sleeve top, long sleeve dress, short sleeve top, sling dress, False
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000792.jpg 3
+vest dress, short sleeve dress, short sleeve top, vest, False
+long sleeve top, short sleeve dress, short sleeve top, vest, False
+trousers, short sleeve dress, short sleeve top, vest, False
+Image:> 000793.jpg 1
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+Image:> 000794.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+shorts, long sleeve top, sling, vest, False
+Image:> 000795.jpg 2
+long sleeve outwear, long sleeve dress, skirt, sling dress, False
+shorts, long sleeve dress, skirt, sling dress, False
+Image:> 000796.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000797.jpg 1
+sling dress, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000798.jpg 1
+sling dress, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000799.jpg 1
+sling dress, long sleeve top, sling, sling dress, True
+Image:> 000800.jpg 1
+sling dress, short sleeve dress, skirt, sling dress, True
+Image:> 000801.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000802.jpg 1
+sling dress, long sleeve dress, skirt, vest dress, False
+Image:> 000803.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000804.jpg 1
+sling dress, long sleeve dress, shorts, vest dress, False
+Image:> 000805.jpg 1
+shorts, long sleeve top, short sleeve top, vest, False
+Image:> 000806.jpg 1
+sling dress, short sleeve dress, skirt, vest, False
+Image:> 000807.jpg 1
+sling dress, short sleeve outwear, sling, vest dress, False
+Image:> 000808.jpg 1
+sling dress, short sleeve dress, sling, vest, False
+Image:> 000809.jpg 1
+sling dress, long sleeve dress, skirt, sling dress, True
+Image:> 000810.jpg 1
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000811.jpg 2
+trousers, long sleeve top, shorts, trousers, True
+short sleeve top, long sleeve top, shorts, trousers, False
+Image:> 000812.jpg 1
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+Image:> 000813.jpg 1
+short sleeve dress, long sleeve dress, sling, vest dress, False
+Image:> 000814.jpg 1
+short sleeve dress, short sleeve outwear, sling, vest dress, False
+Image:> 000815.jpg 2
+short sleeve top, long sleeve top, short sleeve top, sling dress, True
+short sleeve dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 000816.jpg 1
+short sleeve dress, long sleeve top, short sleeve top, trousers, False
+Image:> 000817.jpg 1
+trousers, long sleeve top, sling, sling dress, False
+Image:> 000818.jpg 1
+vest dress, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000819.jpg 1
+vest dress, short sleeve dress, skirt, vest, False
+Image:> 000820.jpg 1
+vest dress, short sleeve dress, sling, vest dress, True
+Image:> 000821.jpg 1
+vest dress, long sleeve dress, sling, vest, False
+Image:> 000822.jpg 1
+vest dress, long sleeve outwear, short sleeve top, trousers, False
+Image:> 000823.jpg 1
+vest dress, long sleeve dress, shorts, vest, False
+Image:> 000824.jpg 2
+vest dress, short sleeve dress, shorts, vest dress, True
+vest dress, short sleeve dress, shorts, vest dress, True
+Image:> 000825.jpg 1
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000826.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000827.jpg 1
+vest dress, short sleeve dress, shorts, vest dress, True
+Image:> 000828.jpg 1
+vest dress, long sleeve dress, shorts, vest, False
+Image:> 000829.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 000830.jpg 1
+vest dress, short sleeve outwear, sling, vest dress, True
+Image:> 000831.jpg 1
+vest dress, short sleeve dress, skirt, vest dress, True
+Image:> 000832.jpg 1
+skirt, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000833.jpg 2
+skirt, short sleeve dress, short sleeve top, sling dress, False
+long sleeve outwear, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000834.jpg 2
+skirt, long sleeve dress, skirt, vest dress, True
+long sleeve top, long sleeve dress, skirt, vest dress, False
+Image:> 000835.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000836.jpg 1
+sling dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000837.jpg 1
+sling dress, short sleeve outwear, sling, vest dress, False
+Image:> 000838.jpg 1
+sling dress, long sleeve dress, skirt, vest dress, False
+Image:> 000839.jpg 1
+sling dress, long sleeve dress, sling, sling dress, True
+Image:> 000840.jpg 1
+sling dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000841.jpg 1
+sling dress, short sleeve dress, skirt, vest dress, False
+Image:> 000842.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000843.jpg 1
+sling dress, long sleeve outwear, sling, vest, False
+Image:> 000844.jpg 1
+sling dress, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000845.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000846.jpg 1
+sling dress, long sleeve top, skirt, vest, False
+Image:> 000847.jpg 2
+sling dress, long sleeve top, sling, vest, False
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000848.jpg 1
+sling dress, long sleeve dress, shorts, sling dress, True
+Image:> 000849.jpg 1
+sling dress, long sleeve outwear, skirt, vest dress, False
+Image:> 000850.jpg 1
+sling dress, long sleeve dress, skirt, vest dress, False
+Image:> 000851.jpg 1
+sling dress, long sleeve dress, short sleeve top, sling dress, True
+Image:> 000852.jpg 1
+sling dress, long sleeve dress, sling, sling dress, True
+Image:> 000853.jpg 1
+sling dress, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000854.jpg 1
+sling dress, short sleeve dress, sling, sling dress, True
+Image:> 000855.jpg 1
+sling dress, short sleeve dress, sling, vest dress, False
+Image:> 000856.jpg 1
+sling dress, short sleeve dress, shorts, trousers, False
+Image:> 000857.jpg 1
+sling dress, long sleeve outwear, shorts, vest, False
+Image:> 000858.jpg 1
+sling dress, long sleeve outwear, sling, vest, False
+Image:> 000859.jpg 1
+sling dress, short sleeve dress, sling, vest, False
+Image:> 000860.jpg 1
+sling dress, long sleeve dress, skirt, vest dress, False
+Image:> 000861.jpg 1
+sling dress, short sleeve outwear, skirt, sling dress, True
+Image:> 000862.jpg 1
+sling dress, long sleeve outwear, skirt, vest, False
+Image:> 000863.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000864.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000865.jpg 1
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000866.jpg 1
+vest dress, short sleeve dress, skirt, sling dress, False
+Image:> 000867.jpg 1
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000868.jpg 1
+vest dress, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000869.jpg 1
+long sleeve top, short sleeve outwear, short sleeve top, trousers, False
+Image:> 000870.jpg 2
+trousers, long sleeve top, short sleeve top, trousers, True
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000871.jpg 1
+short sleeve dress, long sleeve top, skirt, vest, False
+Image:> 000872.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000873.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 000874.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000875.jpg 2
+short sleeve top, long sleeve top, skirt, sling dress, False
+trousers, long sleeve top, skirt, sling dress, False
+Image:> 000876.jpg 2
+vest dress, long sleeve dress, sling, sling dress, False
+short sleeve top, long sleeve dress, sling, sling dress, False
+Image:> 000877.jpg 2
+short sleeve top, long sleeve dress, sling, vest dress, False
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 000878.jpg 2
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+Image:> 000879.jpg 2
+vest dress, short sleeve dress, shorts, sling dress, False
+short sleeve top, short sleeve dress, shorts, sling dress, False
+Image:> 000880.jpg 3
+vest dress, short sleeve dress, skirt, sling dress, False
+short sleeve top, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000881.jpg 2
+vest dress, long sleeve outwear, sling, vest, False
+short sleeve top, long sleeve outwear, sling, vest, False
+Image:> 000882.jpg 2
+vest dress, short sleeve outwear, skirt, sling dress, False
+short sleeve top, short sleeve outwear, skirt, sling dress, False
+Image:> 000883.jpg 2
+short sleeve top, long sleeve top, sling, sling dress, False
+vest dress, long sleeve top, sling, sling dress, False
+Image:> 000884.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, sling dress, True
+vest dress, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 000885.jpg 1
+short sleeve top, long sleeve dress, shorts, vest dress, False
+Image:> 000886.jpg 1
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000887.jpg 2
+shorts, short sleeve dress, short sleeve top, sling dress, False
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000888.jpg 1
+short sleeve top, short sleeve dress, shorts, trousers, False
+Image:> 000889.jpg 1
+short sleeve top, long sleeve top, sling, vest, False
+Image:> 000890.jpg 2
+short sleeve top, long sleeve dress, skirt, vest, False
+trousers, long sleeve dress, skirt, vest, False
+Image:> 000891.jpg 2
+short sleeve top, long sleeve dress, skirt, vest dress, False
+shorts, long sleeve dress, skirt, vest dress, False
+Image:> 000892.jpg 2
+trousers, short sleeve dress, skirt, trousers, True
+long sleeve top, short sleeve dress, skirt, trousers, False
+Image:> 000893.jpg 2
+long sleeve outwear, long sleeve top, sling, sling dress, False
+trousers, long sleeve top, sling, sling dress, False
+Image:> 000894.jpg 2
+short sleeve top, long sleeve top, sling, sling dress, False
+trousers, long sleeve top, sling, sling dress, False
+Image:> 000895.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+Image:> 000896.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+trousers, short sleeve dress, skirt, vest dress, False
+Image:> 000897.jpg 1
+shorts, long sleeve top, skirt, vest, False
+Image:> 000898.jpg 2
+shorts, long sleeve dress, shorts, trousers, True
+short sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000899.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+shorts, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000900.jpg 2
+shorts, long sleeve top, shorts, trousers, True
+long sleeve top, long sleeve top, shorts, trousers, True
+Image:> 000901.jpg 1
+shorts, long sleeve top, skirt, vest, False
+Image:> 000902.jpg 2
+short sleeve top, long sleeve outwear, short sleeve top, vest, True
+shorts, long sleeve outwear, short sleeve top, vest, False
+Image:> 000903.jpg 2
+shorts, long sleeve dress, shorts, trousers, True
+short sleeve top, long sleeve dress, shorts, trousers, False
+Image:> 000904.jpg 2
+short sleeve top, long sleeve top, short sleeve top, vest, True
+shorts, long sleeve top, short sleeve top, vest, False
+Image:> 000905.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest, True
+Image:> 000906.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+shorts, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000907.jpg 2
+short sleeve top, long sleeve dress, skirt, vest dress, False
+trousers, long sleeve dress, skirt, vest dress, False
+Image:> 000908.jpg 2
+short sleeve top, short sleeve dress, shorts, vest, False
+shorts, short sleeve dress, shorts, vest, True
+Image:> 000909.jpg 2
+short sleeve top, long sleeve top, sling, vest, False
+shorts, long sleeve top, sling, vest, False
+Image:> 000910.jpg 2
+short sleeve top, short sleeve dress, sling, vest dress, False
+shorts, short sleeve dress, sling, vest dress, False
+Image:> 000911.jpg 2
+short sleeve top, short sleeve outwear, short sleeve top, vest dress, True
+shorts, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 000912.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+shorts, long sleeve dress, short sleeve top, vest, False
+Image:> 000913.jpg 2
+short sleeve top, long sleeve top, skirt, sling dress, False
+shorts, long sleeve top, skirt, sling dress, False
+Image:> 000914.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, sling dress, True
+shorts, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000915.jpg 2
+short sleeve top, short sleeve dress, sling, vest dress, False
+shorts, short sleeve dress, sling, vest dress, False
+Image:> 000916.jpg 2
+short sleeve top, long sleeve top, skirt, sling dress, False
+shorts, long sleeve top, skirt, sling dress, False
+Image:> 000917.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, sling dress, True
+shorts, short sleeve dress, short sleeve top, sling dress, False
+Image:> 000918.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+shorts, short sleeve dress, skirt, vest dress, False
+Image:> 000919.jpg 2
+short sleeve outwear, long sleeve top, short sleeve top, sling dress, False
+shorts, long sleeve top, short sleeve top, sling dress, False
+Image:> 000920.jpg 2
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+shorts, short sleeve dress, short sleeve top, vest dress, False
+Image:> 000921.jpg 2
+short sleeve top, short sleeve outwear, skirt, vest dress, False
+shorts, short sleeve outwear, skirt, vest dress, False
+Image:> 000922.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+shorts, short sleeve dress, skirt, vest dress, False
+Image:> 000923.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+shorts, long sleeve dress, short sleeve top, vest, False
+Image:> 000924.jpg 1
+long sleeve dress, long sleeve dress, short sleeve top, vest dress, True
+Image:> 000925.jpg 2
+short sleeve top, long sleeve outwear, sling, vest dress, False
+trousers, long sleeve outwear, sling, vest dress, False
+Image:> 000926.jpg 1
+vest dress, long sleeve outwear, sling, vest, False
+Image:> 000927.jpg 1
+vest dress, short sleeve outwear, short sleeve top, vest dress, True
+Image:> 000928.jpg 1
+vest dress, long sleeve top, skirt, sling dress, False
+Image:> 000929.jpg 1
+vest dress, long sleeve dress, short sleeve top, sling dress, False
+Image:> 000930.jpg 1
+vest dress, long sleeve top, sling, sling dress, False
+Image:> 000931.jpg 1
+vest dress, short sleeve dress, shorts, sling dress, False
+Image:> 000932.jpg 1
+vest dress, short sleeve dress, skirt, sling dress, False
+Image:> 000933.jpg 1
+vest dress, long sleeve top, sling, vest dress, True
+Image:> 000934.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 000935.jpg 1
+vest dress, long sleeve outwear, sling, vest dress, True
+Image:> 000936.jpg 1
+vest dress, long sleeve dress, skirt, sling dress, False
+Image:> 000937.jpg 1
+vest dress, long sleeve dress, sling, sling dress, False
+Image:> 000938.jpg 1
+vest dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000939.jpg 1
+vest dress, long sleeve top, shorts, trousers, False
+Image:> 000940.jpg 1
+long sleeve top, short sleeve dress, shorts, trousers, False
+Image:> 000941.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000942.jpg 1
+long sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000943.jpg 2
+long sleeve top, short sleeve dress, skirt, sling dress, False
+trousers, short sleeve dress, skirt, sling dress, False
+Image:> 000944.jpg 2
+long sleeve top, long sleeve dress, shorts, vest, False
+trousers, long sleeve dress, shorts, vest, False
+Image:> 000945.jpg 2
+long sleeve top, long sleeve dress, skirt, sling dress, False
+trousers, long sleeve dress, skirt, sling dress, False
+Image:> 000946.jpg 2
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+skirt, long sleeve top, short sleeve top, trousers, False
+Image:> 000947.jpg 3
+long sleeve top, short sleeve outwear, short sleeve top, trousers, False
+trousers, short sleeve outwear, short sleeve top, trousers, True
+skirt, short sleeve outwear, short sleeve top, trousers, False
+Image:> 000948.jpg 3
+trousers, short sleeve dress, skirt, vest dress, False
+long sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 000949.jpg 1
+long sleeve top, long sleeve top, short sleeve top, vest dress, True
+Image:> 000950.jpg 1
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000951.jpg 1
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000952.jpg 2
+long sleeve top, long sleeve top, shorts, vest, True
+trousers, long sleeve top, shorts, vest, False
+Image:> 000953.jpg 1
+long sleeve top, short sleeve dress, shorts, vest, False
+Image:> 000954.jpg 2
+trousers, short sleeve outwear, skirt, sling dress, False
+long sleeve top, short sleeve outwear, skirt, sling dress, False
+Image:> 000955.jpg 2
+trousers, short sleeve dress, skirt, sling dress, False
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 000956.jpg 2
+long sleeve top, short sleeve dress, short sleeve top, vest, False
+trousers, short sleeve dress, short sleeve top, vest, False
+Image:> 000957.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+Image:> 000958.jpg 2
+vest, long sleeve dress, sling, vest, True
+skirt, long sleeve dress, sling, vest, False
+Image:> 000959.jpg 1
+short sleeve top, long sleeve top, sling, sling dress, False
+Image:> 000960.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest, True
+short sleeve dress, long sleeve dress, short sleeve top, vest, False
+Image:> 000961.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, trousers, True
+Image:> 000962.jpg 2
+shorts, long sleeve top, shorts, trousers, True
+long sleeve top, long sleeve top, shorts, trousers, True
+Image:> 000963.jpg 2
+trousers, long sleeve top, shorts, trousers, True
+long sleeve top, long sleeve top, shorts, trousers, True
+Image:> 000964.jpg 2
+short sleeve top, long sleeve dress, shorts, trousers, False
+skirt, long sleeve dress, shorts, trousers, False
+Image:> 000965.jpg 1
+trousers, long sleeve top, shorts, trousers, True
+Image:> 000966.jpg 3
+vest dress, long sleeve dress, shorts, sling dress, False
+long sleeve top, long sleeve dress, shorts, sling dress, False
+trousers, long sleeve dress, shorts, sling dress, False
+Image:> 000967.jpg 1
+long sleeve top, long sleeve dress, shorts, vest dress, False
+Image:> 000968.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+shorts, short sleeve dress, skirt, vest dress, False
+Image:> 000969.jpg 2
+short sleeve top, short sleeve dress, skirt, vest dress, False
+shorts, short sleeve dress, skirt, vest dress, False
+Image:> 000970.jpg 2
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+trousers, long sleeve top, short sleeve top, trousers, True
+Image:> 000971.jpg 2
+long sleeve top, long sleeve dress, short sleeve top, vest, False
+trousers, long sleeve dress, short sleeve top, vest, False
+Image:> 000972.jpg 2
+long sleeve top, long sleeve dress, shorts, sling dress, False
+trousers, long sleeve dress, shorts, sling dress, False
+Image:> 000973.jpg 2
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+trousers, long sleeve top, short sleeve top, trousers, True
+Image:> 000974.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, trousers, False
+Image:> 000975.jpg 2
+long sleeve top, long sleeve top, sling, vest, True
+trousers, long sleeve top, sling, vest, False
+Image:> 000976.jpg 1
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 000977.jpg 1
+long sleeve top, long sleeve outwear, short sleeve top, sling dress, False
+Image:> 000978.jpg 2
+long sleeve top, long sleeve top, shorts, trousers, True
+trousers, long sleeve top, shorts, trousers, True
+Image:> 000979.jpg 2
+long sleeve top, long sleeve top, shorts, trousers, True
+trousers, long sleeve top, shorts, trousers, True
+Image:> 000980.jpg 1
+long sleeve top, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000981.jpg 1
+short sleeve top, long sleeve dress, sling, vest dress, False
+Image:> 000982.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+shorts, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000983.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest, True
+Image:> 000984.jpg 1
+vest dress, short sleeve dress, sling, vest dress, True
+Image:> 000985.jpg 2
+vest, short sleeve dress, sling, trousers, False
+trousers, short sleeve dress, sling, trousers, True
+Image:> 000986.jpg 1
+short sleeve dress, long sleeve dress, shorts, vest, False
+Image:> 000987.jpg 1
+short sleeve dress, short sleeve dress, shorts, sling dress, True
+Image:> 000988.jpg 1
+short sleeve dress, long sleeve dress, skirt, vest, False
+Image:> 000989.jpg 1
+short sleeve dress, long sleeve dress, sling, trousers, False
+Image:> 000990.jpg 1
+short sleeve dress, short sleeve dress, shorts, vest dress, True
+Image:> 000991.jpg 1
+short sleeve dress, long sleeve dress, shorts, trousers, False
+Image:> 000992.jpg 1
+short sleeve dress, short sleeve dress, sling, sling dress, True
+Image:> 000993.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest dress, True
+Image:> 000994.jpg 1
+short sleeve dress, short sleeve dress, skirt, vest dress, True
+Image:> 000995.jpg 1
+short sleeve dress, long sleeve outwear, shorts, trousers, False
+Image:> 000996.jpg 1
+short sleeve dress, long sleeve dress, shorts, sling dress, False
+Image:> 000997.jpg 1
+short sleeve dress, long sleeve top, shorts, vest, False
+Image:> 000998.jpg 1
+short sleeve dress, long sleeve dress, short sleeve top, vest dress, False
+Image:> 000999.jpg 1
+short sleeve dress, long sleeve dress, shorts, trousers, False
+Image:> 001000.jpg 1
+short sleeve dress, short sleeve dress, shorts, vest dress, True
+Image:> 001001.jpg 1
+short sleeve dress, long sleeve outwear, short sleeve top, vest, False
+Image:> 001002.jpg 1
+short sleeve dress, long sleeve outwear, short sleeve top, trousers, False
+Image:> 001003.jpg 1
+short sleeve dress, long sleeve outwear, short sleeve top, vest dress, False
+Image:> 001004.jpg 1
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 001005.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+trousers, long sleeve dress, short sleeve top, vest dress, False
+Image:> 001006.jpg 2
+trousers, long sleeve top, short sleeve top, trousers, True
+short sleeve top, long sleeve top, short sleeve top, trousers, True
+Image:> 001007.jpg 1
+trousers, long sleeve top, short sleeve top, trousers, True
+Image:> 001008.jpg 1
+trousers, long sleeve dress, shorts, vest, False
+Image:> 001009.jpg 1
+trousers, long sleeve top, skirt, vest, False
+Image:> 001010.jpg 2
+short sleeve top, long sleeve outwear, sling, trousers, False
+trousers, long sleeve outwear, sling, trousers, True
+Image:> 001011.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, trousers, True
+Image:> 001012.jpg 1
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 001013.jpg 1
+short sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 001014.jpg 2
+short sleeve top, long sleeve dress, skirt, vest, False
+trousers, long sleeve dress, skirt, vest, False
+Image:> 001015.jpg 1
+short sleeve top, long sleeve top, short sleeve top, vest, True
+Image:> 001016.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, trousers, True
+Image:> 001017.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 001018.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest, True
+Image:> 001019.jpg 2
+shorts, short sleeve outwear, short sleeve top, sling dress, False
+vest, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 001020.jpg 1
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+Image:> 001021.jpg 2
+vest, short sleeve outwear, short sleeve top, vest, True
+shorts, short sleeve outwear, short sleeve top, vest, False
+Image:> 001022.jpg 1
+short sleeve dress, short sleeve dress, sling, vest dress, True
+Image:> 001023.jpg 1
+vest, long sleeve dress, sling, sling dress, False
+Image:> 001024.jpg 1
+vest, long sleeve dress, sling, sling dress, False
+Image:> 001025.jpg 1
+vest dress, long sleeve dress, sling, sling dress, False
+Image:> 001026.jpg 1
+shorts, long sleeve outwear, shorts, trousers, True
+Image:> 001027.jpg 1
+vest dress, short sleeve dress, short sleeve top, sling dress, False
+Image:> 001028.jpg 1
+vest dress, short sleeve outwear, skirt, sling dress, False
+Image:> 001029.jpg 1
+vest dress, short sleeve dress, shorts, vest dress, True
+Image:> 001030.jpg 1
+vest dress, short sleeve dress, shorts, vest dress, True
+Image:> 001031.jpg 1
+vest dress, short sleeve dress, skirt, vest dress, True
+Image:> 001032.jpg 1
+vest dress, long sleeve dress, skirt, sling dress, False
+Image:> 001033.jpg 1
+vest dress, long sleeve top, skirt, trousers, False
+Image:> 001034.jpg 1
+vest dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 001035.jpg 1
+vest dress, short sleeve dress, skirt, sling dress, False
+Image:> 001036.jpg 1
+short sleeve top, short sleeve dress, short sleeve top, vest dress, True
+Image:> 001037.jpg 1
+short sleeve top, short sleeve outwear, short sleeve top, vest, True
+Image:> 001038.jpg 1
+vest dress, long sleeve dress, short sleeve top, vest, False
+Image:> 001039.jpg 1
+vest dress, long sleeve top, short sleeve top, sling dress, False
+Image:> 001040.jpg 2
+vest dress, long sleeve top, short sleeve top, trousers, False
+trousers, long sleeve top, short sleeve top, trousers, True
+Image:> 001041.jpg 1
+vest dress, long sleeve dress, short sleeve top, vest dress, True
+Image:> 001042.jpg 1
+vest dress, long sleeve dress, shorts, vest dress, True
+Image:> 001043.jpg 1
+vest dress, short sleeve dress, skirt, sling dress, False
+Image:> 001044.jpg 1
+vest dress, short sleeve dress, shorts, sling dress, False
+Image:> 001045.jpg 1
+vest dress, short sleeve outwear, sling, sling dress, False
+Image:> 001046.jpg 2
+vest dress, short sleeve outwear, short sleeve top, sling dress, False
+trousers, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 001047.jpg 1
+vest dress, long sleeve dress, skirt, vest dress, True
+Image:> 001048.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 001049.jpg 1
+vest dress, long sleeve outwear, sling, vest dress, True
+Image:> 001050.jpg 1
+vest dress, long sleeve dress, sling, vest dress, True
+Image:> 001051.jpg 2
+long sleeve top, short sleeve outwear, short sleeve top, vest dress, False
+trousers, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 001052.jpg 1
+short sleeve top, long sleeve outwear, skirt, vest, False
+Image:> 001053.jpg 2
+long sleeve top, long sleeve top, short sleeve top, trousers, True
+skirt, long sleeve top, short sleeve top, trousers, False
+Image:> 001054.jpg 1
+shorts, short sleeve dress, short sleeve top, vest dress, False
+Image:> 001055.jpg 1
+shorts, long sleeve dress, shorts, vest dress, True
+Image:> 001056.jpg 1
+long sleeve top, short sleeve dress, short sleeve top, vest dress, False
+Image:> 001057.jpg 1
+long sleeve top, short sleeve dress, skirt, vest dress, False
+Image:> 001058.jpg 1
+long sleeve top, long sleeve top, shorts, vest, True
+Image:> 001059.jpg 1
+long sleeve top, long sleeve outwear, short sleeve top, trousers, False
+Image:> 001060.jpg 1
+long sleeve top, long sleeve outwear, sling, trousers, False
+Image:> 001061.jpg 2
+short sleeve top, long sleeve dress, short sleeve top, vest dress, True
+skirt, long sleeve dress, short sleeve top, vest dress, False
+Image:> 001062.jpg 2
+short sleeve top, long sleeve top, short sleeve top, trousers, True
+skirt, long sleeve top, short sleeve top, trousers, False
+Image:> 001063.jpg 2
+skirt, long sleeve dress, skirt, vest dress, True
+long sleeve top, long sleeve dress, skirt, vest dress, False
+Image:> 001064.jpg 2
+skirt, short sleeve outwear, skirt, vest dress, True
+long sleeve top, short sleeve outwear, skirt, vest dress, False
+Image:> 001065.jpg 2
+long sleeve top, long sleeve dress, shorts, vest, False
+skirt, long sleeve dress, shorts, vest, False
+Image:> 001066.jpg 4
+short sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+vest, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 001067.jpg 2
+skirt, short sleeve dress, skirt, sling dress, True
+long sleeve top, short sleeve dress, skirt, sling dress, False
+Image:> 001068.jpg 1
+skirt, short sleeve outwear, short sleeve top, sling dress, False
+Image:> 001069.jpg 1
+skirt, long sleeve dress, short sleeve top, vest, False
+Image:> 001070.jpg 2
+long sleeve top, short sleeve dress, skirt, vest dress, False
+skirt, short sleeve dress, skirt, vest dress, True
+Image:> 001071.jpg 1
+trousers, long sleeve outwear, sling, trousers, True
+Image:> 001072.jpg 2
+vest, long sleeve dress, short sleeve top, vest dress, False
+shorts, long sleeve dress, short sleeve top, vest dress, False
+Image:> 001073.jpg 1
+vest, short sleeve outwear, short sleeve top, vest dress, False
+Image:> 001074.jpg 2
+vest, long sleeve top, short sleeve top, trousers, False
+trousers, long sleeve top, short sleeve top, trousers, True
+Image:> 001075.jpg 2
+vest, long sleeve top, short sleeve top, vest, True
+shorts, long sleeve top, short sleeve top, vest, False
+Image:> 001076.jpg 2
+vest, long sleeve top, sling, vest, True
+trousers, long sleeve top, sling, vest, False
+Image:> 001077.jpg 2
+vest, short sleeve dress, skirt, sling dress, False
+shorts, short sleeve dress, skirt, sling dress, False
+Image:> 001078.jpg 2
+vest, short sleeve dress, sling, sling dress, False
+shorts, short sleeve dress, sling, sling dress, False
+Image:> 001079.jpg 2
+vest, short sleeve dress, skirt, vest dress, False
+shorts, short sleeve dress, skirt, vest dress, False
+Image:> 001080.jpg 2
+vest, short sleeve dress, skirt, vest dress, False
+shorts, short sleeve dress, skirt, vest dress, False
+Image:> 001081.jpg 1
+vest, short sleeve dress, short sleeve top, sling dress, False
+Image:> 001082.jpg 2
+vest, short sleeve dress, short sleeve top, vest dress, False
+trousers, short sleeve dress, short sleeve top, vest dress, False
+Image:> 001083.jpg 2
+trousers, short sleeve dress, shorts, trousers, True
+short sleeve top, short sleeve dress, shorts, trousers, False
+Image:> 001084.jpg 1
+vest dress, long sleeve dress, short sleeve top, vest dress, True
+Image:> 001085.jpg 1
+vest dress, short sleeve dress, short sleeve top, vest, False
+Image:> 001086.jpg 1
+vest dress, short sleeve dress, shorts, vest, False
+Image:> 001087.jpg 1
+vest dress, short sleeve dress, sling, vest dress, True
+Image:> 001088.jpg 1
+vest dress, short sleeve dress, skirt, sling dress, False
+Image:> 001089.jpg 1
+vest dress, short sleeve dress, sling, sling dress, False
+Image:> 001090.jpg 1
+trousers, short sleeve dress, skirt, trousers, True
+Image:> 001091.jpg 1
+trousers, short sleeve dress, shorts, trousers, True
+Image:> 001092.jpg 2
+trousers, long sleeve outwear, shorts, trousers, True
+short sleeve top, long sleeve outwear, shorts, trousers, False
+Image:> 001093.jpg 1
+trousers, long sleeve dress, shorts, trousers, True
+Image:> 001094.jpg 1
+short sleeve dress, long sleeve dress, skirt, vest, False
+Image:> 001095.jpg 1
+short sleeve dress, short sleeve dress, short sleeve top, vest, True
+end

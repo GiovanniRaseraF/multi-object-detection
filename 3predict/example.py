@@ -5,7 +5,7 @@ predicted = {
     "short sleeve dress"    :0,
     "short sleeve outwear"  :0,
     "short sleeve top"      :0,
-    "short"                :0,
+    "shorts"                :0,
     "skirt"                 :0,
     "sling"                 :0,
     "sling dress"           :0,
@@ -21,7 +21,7 @@ category = {
     "short sleeve dress"    :0,
     "short sleeve outwear"  :0,
     "short sleeve top"      :1,
-    "short"                :1,
+    "shorts"                :1,
     "skirt"                 :1,
     "sling"                 :1,
     "sling dress"           :2,
@@ -37,7 +37,7 @@ real = {
     "short sleeve dress"    :predicted.copy(),
     "short sleeve outwear"  :predicted.copy(),
     "short sleeve top"      :predicted.copy(),
-    "short"                :predicted.copy(),
+    "shorts"                :predicted.copy(),
     "skirt"                 :predicted.copy(),
     "sling"                 :predicted.copy(),
     "sling dress"           :predicted.copy(),
@@ -47,7 +47,7 @@ real = {
 }
 
 if __name__ == "__main__":
-    filein = open("ciao.txt", "r")
+    filein = open("a.txt", "r")
 
     while(filein):
         line = filein.readline()

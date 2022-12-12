@@ -30,7 +30,7 @@ classes = [
     'short sleeve dress', 
     'short sleeve outwear', 
     'short sleeve top', 
-    'short', 
+    'shorts', 
     'skirt', 
     'sling',
     'sling dress',
@@ -164,7 +164,7 @@ if __name__ == "__main__":
             saveimage      = False,
             classes        = classes,
             savedir        = savedir,
-            recall         = False
+            recall         = True
         )
 
    #L'accuracy è 0.3124048706240487 su 1095 foto

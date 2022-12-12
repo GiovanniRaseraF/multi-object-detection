@@ -103,7 +103,9 @@ def predict(image, number_model, scale, showfinalimage, saveimage, classes, save
     if recall:
         print(image[-10:], len(array))  
         for item in array:
-            print(item["category_name"], labels)
+            print(f"{item['category_name']}, {label}, {label1}, {label2}, {item['category_name'] in labels}")
+
+            
     
     # Showing and saving predicted
     plt.imshow(img[:,:,::-1])
