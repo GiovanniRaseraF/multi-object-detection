@@ -263,12 +263,7 @@ def train(num_of_epochs, lr, dataset, dataset2, dataset3, valdataset, samples, s
     # Creating a directory for storing models
     if not os.path.isdir(savedir):
         os.mkdir(savedir)
-    
-    c = 0
-    for child in model.children():
-        c += 1
-        print(c, child)
-    
+        
     for epoch in range(num_of_epochs):
         tot_loss = 0
         tot_correct = 0
