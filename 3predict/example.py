@@ -46,6 +46,43 @@ real = {
     "vest dress"            :predicted.copy(),
 }
 
+def intersection_over_union(bo_a, bo_b):
+    box_a = []; box_b = []
+    bo_a = bo_a[2:-2].split(", "); bo_b = bo_b[2:-2].split(", ")
+    for a,b in zip(bo_a, bo_b):
+        if a == '':
+            box_a.append(0)
+        else:
+            box_a.append(int(a))
+        if b == '':
+            box_b.append(0)
+        else:
+            box_b.append(int(b))
+    
+    width_a   =  box_a[2] - box_a[0]
+    height_a  =  box_a[3] - box_a[1]
+    left_a    =  box_a[0]
+    top_a     =  box_a[1]
+
+    width_b   =  box_b[2] - box_b[0]
+    height_b  =  box_b[3] - box_b[1]
+    left_b    =  box_b[0]
+    top_b     =  box_b[1]
+
+    xA = max(left_a, left_b)
+    yA = max(top_a, top_a)
+    xB = min(left_a+width_a, left_b+width_b)
+    yB = min(top_a+height_a, top_b+height_b)
+
+    area_of_intersection = (xB - xA + 1) * (yB - yA + 1)
+
+    box_a_area = (width_a + 1) * (height_a + 1)
+    box_b_area = (width_b + 1) * (height_b + 1)
+
+    iou = area_of_intersection / float(box_a_area + box_b_area - area_of_intersection + 0.0000001)
+
+    return iou
+
 if __name__ == "__main__":
     filein = open("pred.txt", "r")
 
@@ -56,23 +93,26 @@ if __name__ == "__main__":
         vals = line.split(" ")
         
         nums = vals[2]
+        bb_accuracy = 0
 
         for i in range(int(nums)):
-            readpred = filein.readline().split(",")
+            readpred = filein.readline().split(";")
 
             realval = readpred[0].strip()
-            
+            realBB = readpred[5].strip()
             items = [readpred[1].strip(), readpred[2].strip(), readpred[3].strip()]
-            
+            bb = [readpred[6].strip(), readpred[7].strip(), readpred[8].strip()]
+            position = category[realval]
+
             if realval in items:
                 real[realval][realval] += 1
             else:
-                position = category[realval]
                 wrongprediction = items[position]
-
                 real[realval][wrongprediction] += 1
-                
-        
+    
+            predBB = bb[position]  
+            bb_accuracy += intersection_over_union(realBB, predBB)
+
     '''for key, val in real.items():
         print(f"{key:30}", end = " ")
         for kk, vv in val.items():
@@ -122,4 +162,6 @@ if __name__ == "__main__":
     print(precision)
     print("Recall")
     print(recall)
+    print("Accuracy of BB")
+    print(bb_accuracy/total)
 

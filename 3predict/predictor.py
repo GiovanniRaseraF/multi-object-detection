@@ -88,7 +88,9 @@ def predict(image, number_model, scale, showfinalimage, saveimage, classes, save
     
 
     #print("Informazioni")
-    
+    bb = [x1, y1, x2, y2]
+    bb1 = [x3, y3, x4, y4]
+    bb2 = [x5, y5, x6, y6]
     labels = [label, label1, label2]
     confidences = [confidence.item(), confidence1.item(), confidence2.item()]
     for l, c in zip(labels, confidences):
@@ -103,7 +105,7 @@ def predict(image, number_model, scale, showfinalimage, saveimage, classes, save
     if recall:
         print(image[-10:], len(array))  
         for item in array:
-            print(f"{item['category_name']}, {label}, {label1}, {label2}, {item['category_name'] in labels}")
+            print(f"{item['category_name']}; {label}; {label1}; {label2}; {item['category_name'] in labels}; {item['bounding_box']}; {bb}; {bb1}; {bb2}")
 
             
     
