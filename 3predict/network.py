@@ -6,6 +6,8 @@ import torch.optim as optim
 import time
 import numpy as np
 import torchvision as tv
+from net import print_model
+
 def get_num_correct(preds, labels, length, device): 
     cont = 0
     index = torch.argmax(preds)
@@ -249,6 +251,8 @@ def train(num_of_epochs, lr, dataset, dataset2, dataset3, valdataset, samples, s
     dataloader2 = torch.utils.data.DataLoader(dataset2, batch_size=78, shuffle=True)
     dataloader3 = torch.utils.data.DataLoader(dataset3, batch_size = 78, shuffle = True)
     valdataloader = torch.utils.data.DataLoader(valdataset, batch_size=78, shuffle=True)
+
+    #print_model(valdataloader)
 
     model = Network(False)
     model.apply(initialize_weights)

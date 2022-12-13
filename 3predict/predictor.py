@@ -70,11 +70,12 @@ def predict(image, number_model, scale, showfinalimage, saveimage, classes, save
 
     # Reading Image
     img  = cv2.imread(image)
-
     # # Before we can make a prediction we need to preprocess the image.
     processed_image = preprocess(img, scale)
     result = model(torch.permute(torch.from_numpy(processed_image).float(),(0,3,1,2)).to(device))
     scale = 448
+    h = img.shape[0] / scale
+    w = img.shape[1] / scale
     # After postprocessing, we can easily use our results
     label, (x1, y1, x2, y2), confidence, label1, (x3, y3, x4, y4), confidence1, label2, (x5, y5, x6, y6), confidence2 = postprocess(image, result, classes, scale)
     
@@ -105,9 +106,12 @@ def predict(image, number_model, scale, showfinalimage, saveimage, classes, save
     if recall:
         print(image[-10:], len(array))  
         for item in array:
-            print(f"{item['category_name']}; {label}; {label1}; {label2}; {item['category_name'] in labels}; {item['bounding_box']}; {bb}; {bb1}; {bb2}")
-
-            
+            lista = item['bounding_box']
+            lista[0] = int((lista[0]/scale/w)*scale)
+            lista[1] = int((lista[1]/scale/h)*scale)
+            lista[2] = int((lista[2]/scale/w)*scale)
+            lista[3] = int((lista[3]/scale/h)*scale)
+            print(f"{item['category_name']}; {label}; {label1}; {label2}; {item['category_name'] in labels}; {lista}; {bb}; {bb1}; {bb2}")        
     
     # Showing and saving predicted
     plt.imshow(img[:,:,::-1])

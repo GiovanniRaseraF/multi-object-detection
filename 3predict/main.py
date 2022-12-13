@@ -125,12 +125,11 @@ if __name__ == "__main__":
     val_images, val_labels, val_boxes = dataset(
         image_dir   = fromdir + val_image_dir,
         ann_dir     = fromdir + "/assignment_1/test/annotations/",
-        samples     = 4,
+        samples     = 100,
         scale       = scale,
         active_train= active_train,
         changes     = changes
     ) 
-
     
 
     # Train model
@@ -161,10 +160,10 @@ if __name__ == "__main__":
             number_model   = number_model,
             scale          = scale,
             showfinalimage = False,
-            saveimage      = False,
+            saveimage      = True,
             classes        = classes,
             savedir        = savedir,
-            recall         = True
+            recall         = False
         )
 
    #L'accuracy è 0.3124048706240487 su 1095 foto

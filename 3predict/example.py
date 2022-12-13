@@ -48,7 +48,8 @@ real = {
 
 def intersection_over_union(bo_a, bo_b):
     box_a = []; box_b = []
-    bo_a = bo_a[2:-2].split(", "); bo_b = bo_b[2:-2].split(", ")
+    bo_a = bo_a[1:-1].split(", "); 
+    bo_b = bo_b[1:-1].split(", ")
     for a,b in zip(bo_a, bo_b):
         if a == '':
             box_a.append(0)
@@ -58,7 +59,6 @@ def intersection_over_union(bo_a, bo_b):
             box_b.append(0)
         else:
             box_b.append(int(b))
-    
     width_a   =  box_a[2] - box_a[0]
     height_a  =  box_a[3] - box_a[1]
     left_a    =  box_a[0]
@@ -85,7 +85,7 @@ def intersection_over_union(bo_a, bo_b):
 
 if __name__ == "__main__":
     filein = open("pred.txt", "r")
-
+    bb_accuracy = 0
     while(filein):
         line = filein.readline()
         if line == "end": break
@@ -93,8 +93,6 @@ if __name__ == "__main__":
         vals = line.split(" ")
         
         nums = vals[2]
-        bb_accuracy = 0
-
         for i in range(int(nums)):
             readpred = filein.readline().split(";")
 
@@ -106,12 +104,11 @@ if __name__ == "__main__":
 
             if realval in items:
                 real[realval][realval] += 1
+                predBB = bb[position] 
+                bb_accuracy += intersection_over_union(realBB, predBB)
             else:
                 wrongprediction = items[position]
                 real[realval][wrongprediction] += 1
-    
-            predBB = bb[position]  
-            bb_accuracy += intersection_over_union(realBB, predBB)
 
     '''for key, val in real.items():
         print(f"{key:30}", end = " ")
@@ -158,10 +155,10 @@ if __name__ == "__main__":
     for tp, fn in zip(TP,FN):
         recall.append(round(tp/(tp+fn), 3))
     
+    print(TP)
     print("Precision")
     print(precision)
     print("Recall")
     print(recall)
     print("Accuracy of BB")
-    print(bb_accuracy/total)
-
+    print(bb_accuracy/sum(TP))
